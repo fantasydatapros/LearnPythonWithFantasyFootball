@@ -1,25 +1,25 @@
 # 2022 Data Summary
 
-## Data Munging
+## 6-Data Munging
 * Projection data from fantasypros.com (all positions)
 * ADP data from fantasypros.com (standard, ppr, half-ppr)
 
-## Data Visualizations
+## 7-Data Visualizations
 * Yearly fantasy data from PFR for 2021.
 * Weekly fantasy data from PFR for 2021.
 * Combine data from 2000 - 2020.
 
-## Finding TD Regression Candidates
+## 8-Finding TD Regression Candidates
 * 2021 Play by Play data from nflfastR.
 
-## Correlation Matrices
+## 9-Correlation Matrices
 * Weekly fantasy data from PFR for 2021.
 
-## Machine Learning - Regression
+## 10-Machine Learning - Regression
 * Curated dataset from GridironAI.
 
-## Machine Learning - Clustering
+## 11-Machine Learning - Clustering
 * Expert Concensus Rankings from Fantasy Pros.
 
-## nflfastR & In-Season Analysis
-* 2021 Play by Play data from nflfastR cut off at week 11.
+## 12-nflfastR & In-Season Analysis
+* 2021 Play by Play data from nflfastR cut off at week 10.
