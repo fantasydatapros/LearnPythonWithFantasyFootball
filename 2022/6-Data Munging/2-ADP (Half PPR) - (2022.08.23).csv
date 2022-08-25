@@ -1,431 +1,429 @@
-"Rank","Player","Team","Bye","POS","Yahoo","Fantrax","FFC","Sleeper","AVG"
-"1","Jonathan Taylor","IND","14","RB1","1","1","","1","1.0"
-"2","Austin Ekeler","LAC","8","RB2","2","2","","4","2.7"
-"3","Christian McCaffrey","CAR","13","RB3","4","3","","2","3.0"
-"4","Cooper Kupp","LAR","7","WR1","3","4","","5","4.0"
-"5","Derrick Henry","TEN","6","RB4","5","5","","3","4.3"
-"6","Justin Jefferson","MIN","7","WR2","6","6","","7","6.3"
-"7","Dalvin Cook","MIN","7","RB5","7","8","","6","7.0"
-"8","Najee Harris","PIT","9","RB6","9","7","","9","8.3"
-"9","Ja'Marr Chase","CIN","10","WR3","8","9","","10","9.0"
-"10","Joe Mixon","CIN","10","RB7","10","10","","8","9.3"
-"11","Davante Adams","LV","6","WR4","12","11","","11","11.3"
-"12","Stefon Diggs","BUF","7","WR5","11","12","","14","12.3"
-"13","Travis Kelce","KC","8","TE1","15","14","","12","13.7"
-"14","D'Andre Swift","DET","6","RB8","17","13","","13","14.3"
-"15","Nick Chubb","CLE","9","RB9","14","17","","15","15.3"
-"16","Aaron Jones","GB","14","RB10","13","20","","17","16.7"
-"17","Alvin Kamara","NO","14","RB11","20","18","","16","18.0"
-"18","CeeDee Lamb","DAL","9","WR6","16","19","","19","18.0"
-"19","Deebo Samuel","SF","9","WR7","21","16","","22","19.7"
-"20","Saquon Barkley","NYG","9","RB12","18","23","","18","19.7"
-"21","Javonte Williams","DEN","9","RB13","25","15","","24","21.3"
-"22","Josh Allen","BUF","7","QB1","19","26","","21","22.0"
-"23","Tyreek Hill","MIA","11","WR8","24","22","","20","22.0"
-"24","Mark Andrews","BAL","10","TE2","26","21","","23","23.3"
-"25","Leonard Fournette","TB","11","RB14","22","24","","25","23.7"
-"26","Mike Evans","TB","11","WR9","23","29","","27","26.3"
-"27","Keenan Allen","LAC","8","WR10","29","28","","29","28.7"
-"28","A.J. Brown","PHI","7","WR11","32","27","","28","29.0"
-"29","Ezekiel Elliott","DAL","9","RB15","27","35","","26","29.3"
-"30","Tee Higgins","CIN","10","WR12","28","30","","33","30.3"
-"31","James Conner","ARI","13","RB16","31","31","","30","30.7"
-"32","Cam Akers","LAR","7","RB17","34","25","","34","31.0"
-"33","Kyle Pitts","ATL","14","TE3","36","33","","31","33.3"
-"34","Patrick Mahomes II","KC","8","QB2","33","39","","32","34.7"
-"35","David Montgomery","CHI","14","RB18","37","34","","36","35.7"
-"36","Michael Pittman Jr.","IND","14","WR13","30","40","","39","36.3"
-"37","Justin Herbert","LAC","8","QB3","35","41","","35","37.0"
-"38","Breece Hall","NYJ","10","RB19","39","37","","37","37.7"
-"39","Jaylen Waddle","MIA","11","WR14","45","32","","44","40.3"
-"40","DJ Moore","CAR","13","WR15","38","43","","43","41.3"
-"41","Diontae Johnson","PIT","9","WR16","47","36","","42","41.7"
-"42","George Kittle","SF","9","TE4","43","46","","38","42.3"
-"43","Terry McLaurin","WAS","14","WR17","41","45","","41","42.3"
-"44","Travis Etienne Jr.","JAC","11","RB20","48","44","","40","44.0"
-"45","Josh Jacobs","LV","6","RB21","51","38","","48","45.7"
-"46","Lamar Jackson","BAL","10","QB4","42","51","","47","46.7"
-"47","Mike Williams","LAC","8","WR18","44","47","","49","46.7"
-"48","Darren Waller","LV","6","TE5","46","49","","45","46.7"
-"49","Elijah Mitchell","SF","9","RB22","40","48","","54","47.3"
-"50","DK Metcalf","SEA","11","WR19","56","42","","46","48.0"
-"51","Courtland Sutton","DEN","9","WR20","50","60","","51","53.7"
-"52","Joe Burrow","CIN","10","QB5","52","62","","57","57.0"
-"53","AJ Dillon","GB","14","RB23","58","53","","61","57.3"
-"54","Allen Robinson II","LAR","7","WR21","53","67","","55","58.3"
-"55","Jerry Jeudy","DEN","9","WR22","61","63","","53","59.0"
-"56","Kyler Murray","ARI","13","QB6","57","64","","56","59.0"
-"57","Antonio Gibson","WAS","14","RB24","49","82","","50","60.3"
-"58","Marquise Brown","ARI","13","WR23","72","52","","58","60.7"
-"59","Dalton Schultz","DAL","9","TE6","55","68","","60","61.0"
-"60","Brandin Cooks","HOU","6","WR24","67","55","","63","61.7"
-"61","J.K. Dobbins","BAL","10","RB25","54","81","","52","62.3"
-"62","Amon-Ra St. Brown","DET","6","WR25","71","50","","68","63.0"
-"63","Damien Harris","NE","10","RB26","65","56","","72","64.3"
-"64","Amari Cooper","CLE","9","WR26","80","57","","59","65.3"
-"65","Jalen Hurts","PHI","7","QB7","59","73","","65","65.7"
-"66","Clyde Edwards-Helaire","KC","8","RB27","70","66","","64","66.7"
-"67","T.J. Hockenson","DET","6","TE7","64","71","","67","67.3"
-"68","Gabriel Davis","BUF","7","WR27","68","61","","74","67.7"
-"69","JuJu Smith-Schuster","KC","8","WR28","62","76","","71","69.7"
-"70","Michael Thomas","NO","14","WR29","73","70","","66","69.7"
-"71","Chris Godwin","TB","11","WR30","95","54","","62","70.3"
-"72","Darnell Mooney","CHI","14","WR31","92","58","","73","74.3"
-"73","Miles Sanders","PHI","7","RB28","74","79","","70","74.3"
-"74","Adam Thielen","MIN","7","WR32","81","75","","69","75.0"
-"75","Dallas Goedert","PHI","7","TE8","63","85","","79","75.7"
-"76","Russell Wilson","DEN","9","QB8","69","80","","78","75.7"
-"77","Dak Prescott","DAL","9","QB9","78","72","","84","78.0"
-"78","Devin Singletary","BUF","7","RB29","75","74","","86","78.3"
-"79","Tom Brady","TB","11","QB10","60","93","","85","79.3"
-"80","Rashod Bateman","BAL","10","WR33","83","88","","75","82.0"
-"81","Elijah Moore","NYJ","10","WR34","100","59","","88","82.3"
-"82","Cordarrelle Patterson","ATL","14","RB30","96","69","","82","82.3"
-"83","Hunter Renfrow","LV","6","WR35","97","65","","91","84.3"
-"84","Kareem Hunt","CLE","9","RB31","94","84","","76","84.7"
-"85","Rashaad Penny","SEA","11","RB32","84","83","","90","85.7"
-"86","Tony Pollard","DAL","9","RB33","93","86","","83","87.3"
-"87","Chase Edmonds","MIA","11","RB34","86","87","","89","87.3"
-"88","Ken Walker III","SEA","11","RB35","106","91","","77","91.3"
-"89","DeVonta Smith","PHI","7","WR36","109","78","","87","91.3"
-"90","Dawson Knox","BUF","7","TE9","76","107","","92","91.7"
-"91","Zach Ertz","ARI","13","TE10","88","95","","95","92.7"
-"92","Aaron Rodgers","GB","14","QB11","87","98","","96","93.7"
-"93","Matthew Stafford","LAR","7","QB12","89","90","","103","94.0"
-"94","Rhamondre Stevenson","NE","10","RB36","90","94","","102","95.3"
-"95","Tyler Lockett","SEA","11","WR37","112","77","","100","96.3"
-"96","Brandon Aiyuk","SF","9","WR38","103","92","","94","96.3"
-"97","DeAndre Hopkins","ARI","13","WR39","101","108","","81","96.7"
-"98","Melvin Gordon III","DEN","9","RB37","99","101","","101","100.3"
-"99","Drake London","ATL","14","WR40","126","99","","80","101.7"
-"100","Trey Lance","SF","9","QB13","102","103","","104","103.0"
-"101","Buffalo Bills","DST","7","DST1","66","129","","127","107.3"
-"102","Christian Kirk","JAC","11","WR41","116","102","","106","108.0"
-"103","Allen Lazard","GB","14","WR42","107","121","","97","108.3"
-"104","James Cook","BUF","7","RB38","113","124","","99","112.0"
-"105","Robert Woods","TEN","6","WR43","132","100","","105","112.3"
-"106","Derek Carr","LV","6","QB14","110","114","","116","113.3"
-"107","Justin Tucker","BAL","10","K1","77","137","","128","114.0"
-"108","Michael Carter","NYJ","10","RB39","138","96","","113","115.7"
-"109","Chris Olave","NO","14","WR44","140","110","","98","116.0"
-"110","Kirk Cousins","MIN","7","QB15","118","106","","125","116.3"
-"111","Chase Claypool","PIT","9","WR45","141","104","","109","118.0"
-"112","Tampa Bay Buccaneers","DST","11","DST2","79","147","","130","118.7"
-"113","Mike Gesicki","MIA","11","TE11","124","118","","114","118.7"
-"114","Dameon Pierce","HOU","6","RB40","111","144","","107","120.7"
-"115","James Robinson","JAC","11","RB41","130","117","","115","120.7"
-"116","Alexander Mattison","MIN","7","RB42","136","113","","117","122.0"
-"117","Brian Robinson Jr.","WAS","14","RB43","129","89","","149","122.3"
-"118","Kadarius Toney","NYG","9","WR46","146","109","","112","122.3"
-"119","Pat Freiermuth","PIT","9","TE12","114","142","","111","122.3"
-"120","Darrell Henderson Jr.","LAR","7","RB44","131","115","","123","123.0"
-"121","Treylon Burks","TEN","6","WR47","182","97","","93","124.0"
-"122","Russell Gage","TB","11","WR48","128","111","","136","125.0"
-"123","Ronald Jones II","KC","8","RB45","119","125","","141","128.3"
-"124","Garrett Wilson","NYJ","10","WR49","167","112","","108","129.0"
-"125","Dallas Cowboys","DST","9","DST3","137","120","","132","129.7"
-"126","Evan McPherson","CIN","10","K2","85","177","","129","130.3"
-"127","Albert Okwuegbunam","DEN","9","TE13","123","154","","126","134.3"
-"128","Nyheim Hines","IND","14","RB46","150","134","","122","135.3"
-"129","Isaiah Spiller","LAC","8","RB47","183","105","","119","135.7"
-"130","Cole Kmet","CHI","14","TE14","161","126","","120","135.7"
-"131","Tyler Boyd","CIN","10","WR50","176","116","","121","137.7"
-"132","Daniel Carlson","LV","6","K3","105","161","","159","141.7"
-"133","Tua Tagovailoa","MIA","11","QB16","156","123","","147","142.0"
-"134","San Francisco 49ers","DST","9","DST4","82","213","","133","142.7"
-"135","Los Angeles Rams","DST","7","DST5","91","207","","131","143.0"
-"136","George Pickens","PIT","9","WR51","127","180","","124","143.7"
-"137","Marquez Valdes-Scantling","KC","8","WR52","177","143","","118","146.0"
-"138","New Orleans Saints","DST","14","DST6","122","150","","167","146.3"
-"139","Justin Fields","CHI","14","QB17","168","122","","152","147.3"
-"140","Harrison Butker","KC","8","K4","115","171","","158","148.0"
-"141","Rachaad White","TB","11","RB48","175","130","","140","148.3"
-"142","Jarvis Landry","NO","14","WR53","162","138","","145","148.3"
-"143","Skyy Moore","KC","8","WR54","185","153","","110","149.3"
-"144","Kenny Golladay","NYG","9","WR55","170","127","","154","150.3"
-"145","Indianapolis Colts","DST","14","DST7","104","182","","166","150.7"
-"146","Kenneth Gainwell","PHI","7","RB49","191","128","","146","155.0"
-"147","Rondale Moore","ARI","13","WR56","199","119","","148","155.3"
-"148","Julio Jones","TB","11","WR57","134","197","","139","156.7"
-"149","Matt Gay","LAR","7","K5","108","204","","161","157.7"
-"150","Denver Broncos","DST","9","DST8","117","194","","164","158.3"
-"151","DeVante Parker","NE","10","WR58","180","145","","150","158.3"
-"152","Marlon Mack","HOU","6","RB50","125","198","","153","158.7"
-"153","Jakobi Meyers","NE","10","WR59","187","132","","157","158.7"
-"154","Raheem Mostert","MIA","11","RB51","149","159","","174","160.7"
-"155","Tyler Bass","BUF","7","K6","98","225","","162","161.7"
-"156","Isiah Pacheco","KC","8","RB52","166","157","","163","162.0"
-"157","Christian Watson","GB","14","WR60","186","163","","138","162.3"
-"158","Mecole Hardman","KC","8","WR61","154","152","","182","162.7"
-"159","New England Patriots","DST","10","DST9","212","140","","137","163.0"
-"160","Khalil Herbert","CHI","14","RB53","193","141","","155","163.0"
-"161","Tyler Allgeier","ATL","14","RB54","181","165","","143","163.0"
-"162","DJ Chark Jr.","DET","6","WR62","179","139","","173","163.7"
-"163","J.D. McKissic","WAS","14","RB55","192","136","","172","166.7"
-"164","Ryan Tannehill","TEN","6","QB18","158","135","","209","167.3"
-"165","Jameson Williams","DET","6","WR63","208","146","","151","168.3"
-"166","Trevor Lawrence","JAC","11","QB19","204","133","","170","169.0"
-"167","Jalen Tolbert","DAL","9","WR64","169","162","","176","169.0"
-"168","Mac Jones","NE","10","QB20","145","169","","194","169.3"
-"169","Jamaal Williams","DET","6","RB56","189","148","","175","170.7"
-"170","Irv Smith Jr.","MIN","7","TE15","213","131","","171","171.7"
-"171","David Njoku","CLE","9","TE16","190","151","","177","172.7"
-"172","Baltimore Ravens","DST","10","DST10","174","219","","134","175.7"
-"173","Mark Ingram II","NO","14","RB57","157","191","","181","176.3"
-"174","Romeo Doubs","GB","14","WR65","195","167","","169","177.0"
-"175","Michael Gallup","DAL","9","WR66","209","181","","142","177.3"
-"176","Matt Ryan","IND","14","QB21","194","166","","179","179.7"
-"177","Sammy Watkins","GB","14","WR67","173","172","","196","180.3"
-"178","Deshaun Watson","CLE","9","QB22","155","208","","180","181.0"
-"179","Hunter Henry","NE","10","TE17","159","243","","144","182.0"
-"180","Darrel Williams","ARI","13","RB58","178","170","","204","184.0"
-"181","Sony Michel","MIA","11","RB59","160","173","","224","185.7"
-"182","Jameis Winston","NO","14","QB23","184","186","","193","187.7"
-"183","Baker Mayfield","CAR","13","QB24","139","214","","217","190.0"
-"184","Gus Edwards","BAL","10","RB60","214","158","","199","190.3"
-"185","Evan Engram","JAC","11","TE18","197","164","","211","190.7"
-"186","D'Onta Foreman","CAR","13","RB61","202","175","","205","194.0"
-"187","Noah Fant","SEA","11","TE19","203","196","","184","194.3"
-"188","Isaiah McKenzie","BUF","7","WR68","196","195","","192","194.3"
-"189","Cameron Brate","TB","11","TE20","148","212","","225","195.0"
-"190","Robert Tonyan","GB","14","TE21","205","179","","201","195.0"
-"191","Matt Prater","ARI","13","K7","207","222","","160","196.3"
-"192","Rodrigo Blankenship","IND","14","K8","216","206","","168","196.7"
-"193","Green Bay Packers","DST","14","DST11","121","286","","188","198.3"
-"194","Younghoe Koo","ATL","14","K9","147","372","","165","228.0"
-"195","Zamir White","LV","6","RB62","198","211","","187","198.7"
-"196","Jahan Dotson","WAS","14","WR69","","160","","156","158.0"
-"197","Taysom Hill","NO","14","QB25","143","221","","235","199.7"
-"198","Carson Wentz","WAS","14","QB26","144","215","","240","199.7"
-"199","Los Angeles Chargers","DST","8","DST12","","185","","135","160.0"
-"200","Gerald Everett","LAC","8","TE22","219","184","","200","201.0"
-"201","Miami Dolphins","DST","11","DST13","227","149","","249","208.3"
-"202","Las Vegas Raiders","DST","6","DST14","152","193","","","172.5"
-"203","Wil Lutz","NO","14","K10","200","218","","213","210.3"
-"204","Nick Folk","NE","10","K11","164","312","","190","222.0"
-"205","Zach Wilson","NYJ","10","QB27","135","339","","223","232.3"
-"206","Odell Beckham Jr.","","","WR70","163","326","","197","228.7"
-"207","Hayden Hurst","CIN","10","TE23","165","296","","198","219.7"
-"208","Van Jefferson","LAR","7","WR71","","156","","208","182.0"
-"209","Pittsburgh Steelers","DST","9","DST15","215","240","","191","215.3"
-"210","Jared Goff","DET","6","QB28","171","235","","241","215.7"
-"211","Tyler Higbee","LAR","7","TE24","188","282","","178","216.0"
-"212","Robbie Gould","SF","9","K12","151","356","","216","241.0"
-"213","Joshua Palmer","LAC","8","WR72","","168","","207","187.5"
-"214","Alec Pierce","IND","14","WR73","","190","","185","187.5"
-"215","K.J. Osborn","MIN","7","WR74","","189","","195","192.0"
-"216","Robbie Anderson","CAR","13","WR75","","174","","212","193.0"
-"217","Corey Davis","NYJ","10","WR76","","155","","244","199.5"
-"218","Ryan Succop","TB","11","K13","221","178","","","199.5"
-"219","Austin Hooper","TEN","6","TE25","211","264","","210","228.3"
-"220","Marvin Jones Jr.","JAC","11","WR77","","176","","230","203.0"
-"221","Brandon McManus","DEN","9","K14","223","278","","189","230.0"
-"222","Tennessee Titans","DST","6","DST16","217","223","","250","230.0"
-"223","Tyrion Davis-Price","SF","9","RB63","","224","","186","205.0"
-"224","Dustin Hopkins","LAC","8","K15","225","188","","","206.5"
-"225","Chicago Bears","DST","14","DST17","133","384","","","258.5"
-"226","Wan'Dale Robinson","NYG","9","WR78","","216","","203","209.5"
-"227","Hassan Haskins","TEN","6","RB64","","202","","219","210.5"
-"228","Jamison Crowder","BUF","7","WR79","","187","","236","211.5"
-"229","Greg Joseph","MIN","7","K16","142","284","","","213.0"
-"230","Curtis Samuel","WAS","14","WR80","","192","","234","213.0"
-"231","Kansas City Chiefs","DST","8","DST18","226","200","","","213.0"
-"232","Davis Mills","HOU","6","QB29","","183","","245","214.0"
-"233","Kenyan Drake","","","RB65","","199","","229","214.0"
-"234","Donovan Peoples-Jones","CLE","9","WR81","","205","","226","215.5"
-"235","Greg Zuerlein","NYJ","10","K17","153","359","","","256.0"
-"236","Cleveland Browns","DST","9","DST19","224","288","","214","242.0"
-"237","Philadelphia Eagles","DST","7","DST20","228","347","","215","263.3"
-"238","Daniel Jones","NYG","9","QB30","218","299","","228","248.3"
-"239","Nico Collins","HOU","6","WR82","","249","","202","225.5"
-"240","David Bell","CLE","9","WR83","","231","","222","226.5"
-"241","Chris Boswell","PIT","9","K18","172","320","","","246.0"
-"242","Jeff Wilson Jr.","SF","9","RB66","","203","","253","228.0"
-"243","Washington Commanders","DST","14","DST21","206","357","","252","271.7"
-"244","D'Ernest Johnson","CLE","9","RB67","","226","","233","229.5"
-"245","Minnesota Vikings","DST","7","DST22","230","229","","","229.5"
-"246","Logan Thomas","WAS","14","TE26","220","277","","248","248.3"
-"247","Chuba Hubbard","CAR","13","RB68","","289","","183","236.0"
-"248","KJ Hamler","DEN","9","WR84","","265","","206","235.5"
-"249","Devin Duvernay","BAL","10","WR85","","234","","246","240.0"
-"250","Atlanta Falcons","DST","14","DST23","","201","","","201.0"
-"251","Myles Gaskin","MIA","11","RB69","","210","","273","241.5"
-"252","Keaontay Ingram","ARI","13","RB70","","244","","239","241.5"
-"253","Cade York","CLE","9","K19","201","311","","","256.0"
-"254","Cincinnati Bengals","DST","10","DST24","229","255","","","242.0"
-"255","Kyle Rudolph","TB","11","TE27","","233","","251","242.0"
-"256","William Fuller V","","","WR86","","220","","266","243.0"
-"257","Detroit Lions","DST","6","DST25","","209","","","209.0"
-"258","Jason Sanders","MIA","11","K20","210","303","","","256.5"
-"259","Trey Sermon","SF","9","RB71","","262","","231","246.5"
-"260","New York Giants","DST","9","DST26","","217","","","217.0"
-"261","Kenny Pickett","PIT","9","QB31","","280","","220","250.0"
-"262","Eno Benjamin","ARI","13","RB72","","319","","218","268.5"
-"263","Chris Evans","CIN","10","RB73","","316","","221","268.5"
-"264","Jake Elliott","PHI","7","K21","222","381","","","301.5"
-"265","Boston Scott","PHI","7","RB74","","246","","262","254.0"
-"266","Damien Williams","ATL","14","RB75","","227","","","227.0"
-"267","Parris Campbell","IND","14","WR87","","324","","227","275.5"
-"268","Carolina Panthers","DST","13","DST27","","228","","","228.0"
-"269","Joey Slye","WAS","14","K22","","230","","","230.0"
-"270","Laviska Shenault Jr.","JAC","11","WR88","","242","","271","256.5"
-"271","Tyler Badie","BAL","10","RB76","","256","","257","256.5"
-"272","Jonathan Garibay","","","K23","","232","","","232.0"
-"273","Brevin Jordan","HOU","6","TE28","","267","","247","257.0"
-"274","New York Jets","DST","10","DST28","","236","","","236.0"
-"275","Trey McBride","ARI","13","TE29","","276","","242","259.0"
-"276","Ameer Abdullah","LV","6","RB77","","237","","","237.0"
-"277","Samaje Perine","CIN","10","RB78","","263","","256","259.5"
-"278","Matt Breida","NYG","9","RB79","","258","","261","259.5"
-"279","C.J. Uzomah","NYJ","10","TE30","","238","","","238.0"
-"280","A.J. Green","ARI","13","WR89","","291","","238","264.5"
-"281","Jimmy Garoppolo","SF","9","QB32","","239","","","239.0"
-"282","Kyren Williams","LAR","7","RB80","","241","","","241.0"
-"283","Dontrell Hilliard","TEN","6","RB81","","268","","255","261.5"
-"284","Kendrick Bourne","NE","10","WR90","","290","","243","266.5"
-"285","Jonnu Smith","NE","10","TE31","","245","","","245.0"
-"286","Seattle Seahawks","DST","11","DST29","","247","","","247.0"
-"287","Tyquan Thornton","NE","10","WR91","","270","","259","264.5"
-"288","Terrace Marshall Jr.","CAR","13","WR92","","260","","270","265.0"
-"289","Olamide Zaccheaus","ATL","14","WR93","","250","","","250.0"
-"290","Jelani Woods","IND","14","TE32","","251","","","251.0"
-"291","Cedrick Wilson Jr.","MIA","11","WR94","","252","","","252.0"
-"292","Mike Davis","BAL","10","RB82","","254","","","254.0"
-"293","Jerick McKinnon","KC","8","RB83","","341","","254","297.5"
-"294","Marquez Callaway","NO","14","WR95","","257","","","257.0"
-"295","Zay Jones","JAC","11","WR96","","353","","258","305.5"
-"296","Ke'Shawn Vaughn","TB","11","RB84","","259","","","259.0"
-"297","Randall Cobb","GB","14","WR97","","332","","260","296.0"
-"298","Phillip Lindsay","IND","14","RB85","","261","","","261.0"
-"299","Velus Jones Jr.","CHI","14","WR98","","302","","263","282.5"
-"300","Marcus Mariota","ATL","14","QB33","","294","","264","279.0"
-"301","Mitch Trubisky","PIT","9","QB34","","306","","265","285.5"
-"302","Tyler Huntley","BAL","10","QB35","","266","","","266.0"
-"303","Nick Westbrook-Ikhine","TEN","6","WR99","","388","","267","327.5"
-"304","Mo Alie-Cox","IND","14","TE33","","327","","268","297.5"
-"305","Sterling Shepard","NYG","9","WR100","","269","","","269.0"
-"306","John Metchie III","HOU","6","WR101","","426","","269","347.5"
-"307","Justyn Ross","KC","8","WR102","","271","","","271.0"
-"308","Jalen Guyton","LAC","8","WR103","","272","","","272.0"
-"309","Bryan Edwards","ATL","14","WR104","","377","","272","324.5"
-"310","Abram Smith","NO","14","RB86","","273","","","273.0"
-"311","Adam Trautman","NO","14","TE34","","274","","","274.0"
-"312","Amari Rodgers","GB","14","WR105","","275","","","275.0"
-"313","Bailey Gaither","BAL","10","WR106","","","","275","275.0"
-"314","Akrum Wadley","","","RB87","","","","276","276.0"
-"315","J'mar Smith","","","QB36","","","","277","277.0"
-"316","Jack Doyle","","","TE35","","","","278","278.0"
-"317","Tony Jones Jr.","NO","14","RB88","","279","","","279.0"
-"318","Slade Bolden","BAL","10","WR107","","","","279","279.0"
-"319","Xavier Jones","","","RB89","","","","280","280.0"
-"320","James Washington","DAL","9","WR108","","281","","","281.0"
-"321","Andy Isabella","ARI","13","WR109","","","","281","281.0"
-"322","Kyle Philips","TEN","6","WR110","","283","","","283.0"
-"323","Pierre Strong Jr.","NE","10","RB90","","285","","","285.0"
-"324","Demarcus Robinson","BAL","10","WR111","","287","","","287.0"
-"325","Foster Moreau","LV","6","TE36","","292","","","292.0"
-"326","Cade Otton","TB","11","TE37","","293","","","293.0"
-"327","Ricky Seals-Jones","NYG","9","TE38","","295","","","295.0"
-"328","Desmond Ridder","ATL","14","QB37","","297","","","297.0"
-"329","Jacoby Brissett","CLE","9","QB38","","298","","","298.0"
-"330","Calvin Austin III","PIT","9","WR112","","300","","","300.0"
-"331","Daniel Bellinger","NYG","9","TE39","","301","","","301.0"
-"332","Duke Johnson Jr.","BUF","7","RB91","","304","","","304.0"
-"333","Arizona Cardinals","DST","13","DST30","","305","","","305.0"
-"334","Josh Reynolds","DET","6","WR113","","307","","","307.0"
-"335","Rashard Higgins","CAR","13","WR114","","308","","","308.0"
-"336","Snoop Conner","JAC","11","RB92","","309","","","309.0"
-"337","David Johnson","","","RB93","","310","","","310.0"
-"338","O.J. Howard","BUF","7","TE40","","313","","","313.0"
-"339","Jerrion Ealy","KC","8","RB94","","314","","","314.0"
-"340","Josiah Deguara","GB","14","TE41","","315","","","315.0"
-"341","Antonio Brown","","","WR115","","317","","","317.0"
-"342","Jauan Jennings","SF","9","WR116","","318","","","318.0"
-"343","Danny Gray","SF","9","WR117","","321","","","321.0"
-"344","Malik Willis","TEN","6","QB39","","322","","","322.0"
-"345","Byron Pringle","CHI","14","WR118","","323","","","323.0"
-"346","Cam Sims","WAS","14","WR119","","325","","","325.0"
-"347","Jaelon Darden","TB","11","WR120","","328","","","328.0"
-"348","N'Keal Harry","CHI","14","WR121","","329","","","329.0"
-"349","Josh Gordon","KC","8","WR122","","330","","","330.0"
-"350","Cairo Santos","CHI","14","K24","","331","","","331.0"
-"351","Geno Smith","SEA","11","QB40","","333","","","333.0"
-"352","Zack Moss","BUF","7","RB95","","334","","","334.0"
-"353","Jalen Nailor","MIN","7","WR123","","335","","","335.0"
-"354","James Proche II","BAL","10","WR124","","336","","","336.0"
-"355","Jody Fortson","KC","8","WR125","","337","","","337.0"
-"356","Jake Kumerow","BUF","7","WR126","","338","","","338.0"
-"357","Tyler Conklin","NYJ","10","TE42","","340","","","340.0"
-"358","Jake Funk","LAR","7","RB96","","342","","","342.0"
-"359","Cole Beasley","","","WR127","","343","","","343.0"
-"360","Emmanuel Sanders","","","WR128","","344","","","344.0"
-"361","Devontae Booker","","","RB97","","345","","","345.0"
-"362","Marquise Goodwin","SEA","11","WR129","","346","","","346.0"
-"363","Nelson Agholor","NE","10","WR130","","348","","","348.0"
-"364","Devonta Freeman","","","RB98","","349","","","349.0"
-"365","Andy Dalton","NO","14","QB41","","350","","","350.0"
-"366","Zach Pascal","PHI","7","WR131","","351","","","351.0"
-"367","Greg Dulcich","DEN","9","TE43","","352","","","352.0"
-"368","Tommy Tremble","CAR","13","TE44","","354","","","354.0"
-"369","T.Y. Hilton","","","WR132","","355","","","355.0"
-"370","Jordan Howard","","","RB99","","358","","","358.0"
-"371","Latavius Murray","","","RB100","","360","","","360.0"
-"372","Anthony McFarland Jr.","PIT","9","RB101","","361","","","361.0"
-"373","Drew Lock","SEA","11","QB42","","362","","","362.0"
-"374","Jaret Patterson","WAS","14","RB102","","363","","","363.0"
-"375","Michael Badgley","","","K25","","364","","","364.0"
-"376","Rex Burkhead","HOU","6","RB103","","365","","","365.0"
-"377","Graham Gano","NYG","9","K26","","366","","","366.0"
-"378","Mason Crosby","GB","14","K27","","367","","","367.0"
-"379","Quez Watkins","PHI","7","WR133","","368","","","368.0"
-"380","Khalil Shakir","BUF","7","WR134","","369","","","369.0"
-"381","Wayne Gallman Jr.","","","RB104","","370","","","370.0"
-"382","Kai Forbath","LAR","7","K28","","371","","","371.0"
-"383","Dan Arnold","JAC","11","TE45","","373","","","373.0"
-"384","Giovani Bernard","TB","11","RB105","","374","","","374.0"
-"385","Tre'Quan Smith","NO","14","WR135","","375","","","375.0"
-"386","Braxton Berrios","NYJ","10","WR136","","376","","","376.0"
-"387","Jared Cook","","","TE46","","378","","","378.0"
-"388","Derrick Gore","KC","8","RB106","","379","","","379.0"
-"389","Randy Bullock","TEN","6","K29","","380","","","380.0"
-"390","Kalif Raymond","DET","6","WR137","","382","","","382.0"
-"391","Brandon Bolden","LV","6","RB107","","383","","","383.0"
-"392","Sam Darnold","CAR","13","QB43","","385","","","385.0"
-"393","Tevin Coleman","NYJ","10","RB108","","386","","","386.0"
-"394","Ty Johnson","NYJ","10","RB109","","387","","","387.0"
-"395","Breshad Perriman","TB","11","WR138","","389","","","389.0"
-"396","Deonte Harty","NO","14","WR139","","390","","","390.0"
-"397","Raheem Blackshear","BUF","7","RB110","","391","","","391.0"
-"398","Roberto Aguayo","","","K30","","392","","","392.0"
-"399","Juwan Johnson","NO","14","TE47","","393","","","393.0"
-"400","Brayden Lenius","","","TE48","","394","","","394.0"
-"401","Equanimeous St. Brown","CHI","14","WR140","","395","","","395.0"
-"402","Lirim Hajrullahu","DAL","9","K31","","396","","","396.0"
-"403","Ryan Santoso","","","K32","","397","","","397.0"
-"404","Darius Slayton","NYG","9","WR141","","398","","","398.0"
-"405","Benny Snell Jr.","PIT","9","RB111","","399","","","399.0"
-"406","Dyami Brown","WAS","14","WR142","","400","","","400.0"
-"407","Joshua Kelley","LAC","8","RB112","","401","","","401.0"
-"408","Tutu Atwell","LAR","7","WR143","","402","","","402.0"
-"409","DeeJay Dallas","SEA","11","RB113","","403","","","403.0"
-"410","Qadree Ollison","ATL","14","RB114","","404","","","404.0"
-"411","Donald Parham Jr.","LAC","8","TE49","","405","","","405.0"
-"412","Isaiah Likely","BAL","10","TE50","","406","","","406.0"
-"413","Kene Nwangwu","MIN","7","RB115","","407","","","407.0"
-"414","Lynn Bowden Jr.","MIA","11","WR144","","408","","","408.0"
-"415","Dee Eskridge","SEA","11","WR145","","409","","","409.0"
-"416","Blaine Gabbert","TB","11","QB44","","410","","","410.0"
-"417","Cole Turner","WAS","14","TE51","","411","","","411.0"
-"418","Kyle Juszczyk","SF","9","RB116","","412","","","412.0"
-"419","Jordan Love","GB","14","QB45","","413","","","413.0"
-"420","Ty Montgomery","NE","10","RB117","","414","","","414.0"
-"421","Tyrod Taylor","NYG","9","QB46","","415","","","415.0"
-"422","Joe Flacco","NYJ","10","QB47","","416","","","416.0"
-"423","Harrison Bryant","CLE","9","TE52","","418","","","418.0"
-"424","Pharaoh Brown","HOU","6","TE53","","419","","","419.0"
-"425","Jaylen Warren","PIT","9","RB118","","420","","","420.0"
-"426","Chris Conley","HOU","6","WR146","","421","","","421.0"
-"427","Geoff Swaim","TEN","6","TE54","","422","","","422.0"
-"428","Freddie Swain","SEA","11","WR147","","423","","","423.0"
-""
-""
+Rank,Player,Team,Bye,POS,Yahoo,Fantrax,FFC,Sleeper,AVG
+1,Jonathan Taylor,IND,14,RB1,1,1,,1,1
+2,Austin Ekeler,LAC,8,RB2,2,2,,4,2.7
+3,Christian McCaffrey,CAR,13,RB3,4,3,,2,3
+4,Cooper Kupp,LAR,7,WR1,3,4,,5,4
+5,Derrick Henry,TEN,6,RB4,5,5,,3,4.3
+6,Justin Jefferson,MIN,7,WR2,6,6,,7,6.3
+7,Dalvin Cook,MIN,7,RB5,7,8,,6,7
+8,Najee Harris,PIT,9,RB6,9,7,,9,8.3
+9,Ja'Marr Chase,CIN,10,WR3,8,9,,10,9
+10,Joe Mixon,CIN,10,RB7,10,10,,8,9.3
+11,Davante Adams,LV,6,WR4,12,11,,11,11.3
+12,Stefon Diggs,BUF,7,WR5,11,12,,14,12.3
+13,Travis Kelce,KC,8,TE1,15,14,,12,13.7
+14,D'Andre Swift,DET,6,RB8,17,13,,13,14.3
+15,Nick Chubb,CLE,9,RB9,14,17,,15,15.3
+16,Aaron Jones,GB,14,RB10,13,20,,17,16.7
+17,Alvin Kamara,NO,14,RB11,20,18,,16,18
+18,CeeDee Lamb,DAL,9,WR6,16,19,,19,18
+19,Deebo Samuel,SF,9,WR7,21,16,,22,19.7
+20,Saquon Barkley,NYG,9,RB12,18,23,,18,19.7
+21,Javonte Williams,DEN,9,RB13,25,15,,24,21.3
+22,Josh Allen,BUF,7,QB1,19,26,,21,22
+23,Tyreek Hill,MIA,11,WR8,24,22,,20,22
+24,Mark Andrews,BAL,10,TE2,26,21,,23,23.3
+25,Leonard Fournette,TB,11,RB14,22,24,,25,23.7
+26,Mike Evans,TB,11,WR9,23,29,,27,26.3
+27,Keenan Allen,LAC,8,WR10,29,28,,29,28.7
+28,A.J. Brown,PHI,7,WR11,32,27,,28,29
+29,Ezekiel Elliott,DAL,9,RB15,27,35,,26,29.3
+30,Tee Higgins,CIN,10,WR12,28,30,,33,30.3
+31,James Conner,ARI,13,RB16,31,31,,30,30.7
+32,Cam Akers,LAR,7,RB17,34,25,,34,31
+33,Kyle Pitts,ATL,14,TE3,36,33,,31,33.3
+34,Patrick Mahomes II,KC,8,QB2,33,39,,32,34.7
+35,David Montgomery,CHI,14,RB18,37,34,,36,35.7
+36,Michael Pittman Jr.,IND,14,WR13,30,40,,39,36.3
+37,Justin Herbert,LAC,8,QB3,35,41,,35,37
+38,Breece Hall,NYJ,10,RB19,39,37,,37,37.7
+39,Jaylen Waddle,MIA,11,WR14,45,32,,44,40.3
+40,DJ Moore,CAR,13,WR15,38,43,,43,41.3
+41,Diontae Johnson,PIT,9,WR16,47,36,,42,41.7
+42,George Kittle,SF,9,TE4,43,46,,38,42.3
+43,Terry McLaurin,WAS,14,WR17,41,45,,41,42.3
+44,Travis Etienne Jr.,JAC,11,RB20,48,44,,40,44
+45,Josh Jacobs,LV,6,RB21,51,38,,48,45.7
+46,Lamar Jackson,BAL,10,QB4,42,51,,47,46.7
+47,Mike Williams,LAC,8,WR18,44,47,,49,46.7
+48,Darren Waller,LV,6,TE5,46,49,,45,46.7
+49,Elijah Mitchell,SF,9,RB22,40,48,,54,47.3
+50,DK Metcalf,SEA,11,WR19,56,42,,46,48
+51,Courtland Sutton,DEN,9,WR20,50,60,,51,53.7
+52,Joe Burrow,CIN,10,QB5,52,62,,57,57
+53,AJ Dillon,GB,14,RB23,58,53,,61,57.3
+54,Allen Robinson II,LAR,7,WR21,53,67,,55,58.3
+55,Jerry Jeudy,DEN,9,WR22,61,63,,53,59
+56,Kyler Murray,ARI,13,QB6,57,64,,56,59
+57,Antonio Gibson,WAS,14,RB24,49,82,,50,60.3
+58,Marquise Brown,ARI,13,WR23,72,52,,58,60.7
+59,Dalton Schultz,DAL,9,TE6,55,68,,60,61
+60,Brandin Cooks,HOU,6,WR24,67,55,,63,61.7
+61,J.K. Dobbins,BAL,10,RB25,54,81,,52,62.3
+62,Amon-Ra St. Brown,DET,6,WR25,71,50,,68,63
+63,Damien Harris,NE,10,RB26,65,56,,72,64.3
+64,Amari Cooper,CLE,9,WR26,80,57,,59,65.3
+65,Jalen Hurts,PHI,7,QB7,59,73,,65,65.7
+66,Clyde Edwards-Helaire,KC,8,RB27,70,66,,64,66.7
+67,T.J. Hockenson,DET,6,TE7,64,71,,67,67.3
+68,Gabriel Davis,BUF,7,WR27,68,61,,74,67.7
+69,JuJu Smith-Schuster,KC,8,WR28,62,76,,71,69.7
+70,Michael Thomas,NO,14,WR29,73,70,,66,69.7
+71,Chris Godwin,TB,11,WR30,95,54,,62,70.3
+72,Darnell Mooney,CHI,14,WR31,92,58,,73,74.3
+73,Miles Sanders,PHI,7,RB28,74,79,,70,74.3
+74,Adam Thielen,MIN,7,WR32,81,75,,69,75
+75,Dallas Goedert,PHI,7,TE8,63,85,,79,75.7
+76,Russell Wilson,DEN,9,QB8,69,80,,78,75.7
+77,Dak Prescott,DAL,9,QB9,78,72,,84,78
+78,Devin Singletary,BUF,7,RB29,75,74,,86,78.3
+79,Tom Brady,TB,11,QB10,60,93,,85,79.3
+80,Rashod Bateman,BAL,10,WR33,83,88,,75,82
+81,Elijah Moore,NYJ,10,WR34,100,59,,88,82.3
+82,Cordarrelle Patterson,ATL,14,RB30,96,69,,82,82.3
+83,Hunter Renfrow,LV,6,WR35,97,65,,91,84.3
+84,Kareem Hunt,CLE,9,RB31,94,84,,76,84.7
+85,Rashaad Penny,SEA,11,RB32,84,83,,90,85.7
+86,Tony Pollard,DAL,9,RB33,93,86,,83,87.3
+87,Chase Edmonds,MIA,11,RB34,86,87,,89,87.3
+88,Ken Walker III,SEA,11,RB35,106,91,,77,91.3
+89,DeVonta Smith,PHI,7,WR36,109,78,,87,91.3
+90,Dawson Knox,BUF,7,TE9,76,107,,92,91.7
+91,Zach Ertz,ARI,13,TE10,88,95,,95,92.7
+92,Aaron Rodgers,GB,14,QB11,87,98,,96,93.7
+93,Matthew Stafford,LAR,7,QB12,89,90,,103,94
+94,Rhamondre Stevenson,NE,10,RB36,90,94,,102,95.3
+95,Tyler Lockett,SEA,11,WR37,112,77,,100,96.3
+96,Brandon Aiyuk,SF,9,WR38,103,92,,94,96.3
+97,DeAndre Hopkins,ARI,13,WR39,101,108,,81,96.7
+98,Melvin Gordon III,DEN,9,RB37,99,101,,101,100.3
+99,Drake London,ATL,14,WR40,126,99,,80,101.7
+100,Trey Lance,SF,9,QB13,102,103,,104,103
+101,Buffalo Bills,DST,7,DST1,66,129,,127,107.3
+102,Christian Kirk,JAC,11,WR41,116,102,,106,108
+103,Allen Lazard,GB,14,WR42,107,121,,97,108.3
+104,James Cook,BUF,7,RB38,113,124,,99,112
+105,Robert Woods,TEN,6,WR43,132,100,,105,112.3
+106,Derek Carr,LV,6,QB14,110,114,,116,113.3
+107,Justin Tucker,BAL,10,K1,77,137,,128,114
+108,Michael Carter,NYJ,10,RB39,138,96,,113,115.7
+109,Chris Olave,NO,14,WR44,140,110,,98,116
+110,Kirk Cousins,MIN,7,QB15,118,106,,125,116.3
+111,Chase Claypool,PIT,9,WR45,141,104,,109,118
+112,Tampa Bay Buccaneers,DST,11,DST2,79,147,,130,118.7
+113,Mike Gesicki,MIA,11,TE11,124,118,,114,118.7
+114,Dameon Pierce,HOU,6,RB40,111,144,,107,120.7
+115,James Robinson,JAC,11,RB41,130,117,,115,120.7
+116,Alexander Mattison,MIN,7,RB42,136,113,,117,122
+117,Brian Robinson Jr.,WAS,14,RB43,129,89,,149,122.3
+118,Kadarius Toney,NYG,9,WR46,146,109,,112,122.3
+119,Pat Freiermuth,PIT,9,TE12,114,142,,111,122.3
+120,Darrell Henderson Jr.,LAR,7,RB44,131,115,,123,123
+121,Treylon Burks,TEN,6,WR47,182,97,,93,124
+122,Russell Gage,TB,11,WR48,128,111,,136,125
+123,Ronald Jones II,KC,8,RB45,119,125,,141,128.3
+124,Garrett Wilson,NYJ,10,WR49,167,112,,108,129
+125,Dallas Cowboys,DST,9,DST3,137,120,,132,129.7
+126,Evan McPherson,CIN,10,K2,85,177,,129,130.3
+127,Albert Okwuegbunam,DEN,9,TE13,123,154,,126,134.3
+128,Nyheim Hines,IND,14,RB46,150,134,,122,135.3
+129,Isaiah Spiller,LAC,8,RB47,183,105,,119,135.7
+130,Cole Kmet,CHI,14,TE14,161,126,,120,135.7
+131,Tyler Boyd,CIN,10,WR50,176,116,,121,137.7
+132,Daniel Carlson,LV,6,K3,105,161,,159,141.7
+133,Tua Tagovailoa,MIA,11,QB16,156,123,,147,142
+134,San Francisco 49ers,DST,9,DST4,82,213,,133,142.7
+135,Los Angeles Rams,DST,7,DST5,91,207,,131,143
+136,George Pickens,PIT,9,WR51,127,180,,124,143.7
+137,Marquez Valdes-Scantling,KC,8,WR52,177,143,,118,146
+138,New Orleans Saints,DST,14,DST6,122,150,,167,146.3
+139,Justin Fields,CHI,14,QB17,168,122,,152,147.3
+140,Harrison Butker,KC,8,K4,115,171,,158,148
+141,Rachaad White,TB,11,RB48,175,130,,140,148.3
+142,Jarvis Landry,NO,14,WR53,162,138,,145,148.3
+143,Skyy Moore,KC,8,WR54,185,153,,110,149.3
+144,Kenny Golladay,NYG,9,WR55,170,127,,154,150.3
+145,Indianapolis Colts,DST,14,DST7,104,182,,166,150.7
+146,Kenneth Gainwell,PHI,7,RB49,191,128,,146,155
+147,Rondale Moore,ARI,13,WR56,199,119,,148,155.3
+148,Julio Jones,TB,11,WR57,134,197,,139,156.7
+149,Matt Gay,LAR,7,K5,108,204,,161,157.7
+150,Denver Broncos,DST,9,DST8,117,194,,164,158.3
+151,DeVante Parker,NE,10,WR58,180,145,,150,158.3
+152,Marlon Mack,HOU,6,RB50,125,198,,153,158.7
+153,Jakobi Meyers,NE,10,WR59,187,132,,157,158.7
+154,Raheem Mostert,MIA,11,RB51,149,159,,174,160.7
+155,Tyler Bass,BUF,7,K6,98,225,,162,161.7
+156,Isiah Pacheco,KC,8,RB52,166,157,,163,162
+157,Christian Watson,GB,14,WR60,186,163,,138,162.3
+158,Mecole Hardman,KC,8,WR61,154,152,,182,162.7
+159,New England Patriots,DST,10,DST9,212,140,,137,163
+160,Khalil Herbert,CHI,14,RB53,193,141,,155,163
+161,Tyler Allgeier,ATL,14,RB54,181,165,,143,163
+162,DJ Chark Jr.,DET,6,WR62,179,139,,173,163.7
+163,J.D. McKissic,WAS,14,RB55,192,136,,172,166.7
+164,Ryan Tannehill,TEN,6,QB18,158,135,,209,167.3
+165,Jameson Williams,DET,6,WR63,208,146,,151,168.3
+166,Trevor Lawrence,JAC,11,QB19,204,133,,170,169
+167,Jalen Tolbert,DAL,9,WR64,169,162,,176,169
+168,Mac Jones,NE,10,QB20,145,169,,194,169.3
+169,Jamaal Williams,DET,6,RB56,189,148,,175,170.7
+170,Irv Smith Jr.,MIN,7,TE15,213,131,,171,171.7
+171,David Njoku,CLE,9,TE16,190,151,,177,172.7
+172,Baltimore Ravens,DST,10,DST10,174,219,,134,175.7
+173,Mark Ingram II,NO,14,RB57,157,191,,181,176.3
+174,Romeo Doubs,GB,14,WR65,195,167,,169,177
+175,Michael Gallup,DAL,9,WR66,209,181,,142,177.3
+176,Matt Ryan,IND,14,QB21,194,166,,179,179.7
+177,Sammy Watkins,GB,14,WR67,173,172,,196,180.3
+178,Deshaun Watson,CLE,9,QB22,155,208,,180,181
+179,Hunter Henry,NE,10,TE17,159,243,,144,182
+180,Darrel Williams,ARI,13,RB58,178,170,,204,184
+181,Sony Michel,MIA,11,RB59,160,173,,224,185.7
+182,Jameis Winston,NO,14,QB23,184,186,,193,187.7
+183,Baker Mayfield,CAR,13,QB24,139,214,,217,190
+184,Gus Edwards,BAL,10,RB60,214,158,,199,190.3
+185,Evan Engram,JAC,11,TE18,197,164,,211,190.7
+186,D'Onta Foreman,CAR,13,RB61,202,175,,205,194
+187,Noah Fant,SEA,11,TE19,203,196,,184,194.3
+188,Isaiah McKenzie,BUF,7,WR68,196,195,,192,194.3
+189,Cameron Brate,TB,11,TE20,148,212,,225,195
+190,Robert Tonyan,GB,14,TE21,205,179,,201,195
+191,Matt Prater,ARI,13,K7,207,222,,160,196.3
+192,Rodrigo Blankenship,IND,14,K8,216,206,,168,196.7
+193,Green Bay Packers,DST,14,DST11,121,286,,188,198.3
+194,Younghoe Koo,ATL,14,K9,147,372,,165,228
+195,Zamir White,LV,6,RB62,198,211,,187,198.7
+196,Jahan Dotson,WAS,14,WR69,,160,,156,158
+197,Taysom Hill,NO,14,QB25,143,221,,235,199.7
+198,Carson Wentz,WAS,14,QB26,144,215,,240,199.7
+199,Los Angeles Chargers,DST,8,DST12,,185,,135,160
+200,Gerald Everett,LAC,8,TE22,219,184,,200,201
+201,Miami Dolphins,DST,11,DST13,227,149,,249,208.3
+202,Las Vegas Raiders,DST,6,DST14,152,193,,,172.5
+203,Wil Lutz,NO,14,K10,200,218,,213,210.3
+204,Nick Folk,NE,10,K11,164,312,,190,222
+205,Zach Wilson,NYJ,10,QB27,135,339,,223,232.3
+206,Odell Beckham Jr.,,,WR70,163,326,,197,228.7
+207,Hayden Hurst,CIN,10,TE23,165,296,,198,219.7
+208,Van Jefferson,LAR,7,WR71,,156,,208,182
+209,Pittsburgh Steelers,DST,9,DST15,215,240,,191,215.3
+210,Jared Goff,DET,6,QB28,171,235,,241,215.7
+211,Tyler Higbee,LAR,7,TE24,188,282,,178,216
+212,Robbie Gould,SF,9,K12,151,356,,216,241
+213,Joshua Palmer,LAC,8,WR72,,168,,207,187.5
+214,Alec Pierce,IND,14,WR73,,190,,185,187.5
+215,K.J. Osborn,MIN,7,WR74,,189,,195,192
+216,Robbie Anderson,CAR,13,WR75,,174,,212,193
+217,Corey Davis,NYJ,10,WR76,,155,,244,199.5
+218,Ryan Succop,TB,11,K13,221,178,,,199.5
+219,Austin Hooper,TEN,6,TE25,211,264,,210,228.3
+220,Marvin Jones Jr.,JAC,11,WR77,,176,,230,203
+221,Brandon McManus,DEN,9,K14,223,278,,189,230
+222,Tennessee Titans,DST,6,DST16,217,223,,250,230
+223,Tyrion Davis-Price,SF,9,RB63,,224,,186,205
+224,Dustin Hopkins,LAC,8,K15,225,188,,,206.5
+225,Chicago Bears,DST,14,DST17,133,384,,,258.5
+226,Wan'Dale Robinson,NYG,9,WR78,,216,,203,209.5
+227,Hassan Haskins,TEN,6,RB64,,202,,219,210.5
+228,Jamison Crowder,BUF,7,WR79,,187,,236,211.5
+229,Greg Joseph,MIN,7,K16,142,284,,,213
+230,Curtis Samuel,WAS,14,WR80,,192,,234,213
+231,Kansas City Chiefs,DST,8,DST18,226,200,,,213
+232,Davis Mills,HOU,6,QB29,,183,,245,214
+233,Kenyan Drake,,,RB65,,199,,229,214
+234,Donovan Peoples-Jones,CLE,9,WR81,,205,,226,215.5
+235,Greg Zuerlein,NYJ,10,K17,153,359,,,256
+236,Cleveland Browns,DST,9,DST19,224,288,,214,242
+237,Philadelphia Eagles,DST,7,DST20,228,347,,215,263.3
+238,Daniel Jones,NYG,9,QB30,218,299,,228,248.3
+239,Nico Collins,HOU,6,WR82,,249,,202,225.5
+240,David Bell,CLE,9,WR83,,231,,222,226.5
+241,Chris Boswell,PIT,9,K18,172,320,,,246
+242,Jeff Wilson Jr.,SF,9,RB66,,203,,253,228
+243,Washington Commanders,DST,14,DST21,206,357,,252,271.7
+244,D'Ernest Johnson,CLE,9,RB67,,226,,233,229.5
+245,Minnesota Vikings,DST,7,DST22,230,229,,,229.5
+246,Logan Thomas,WAS,14,TE26,220,277,,248,248.3
+247,Chuba Hubbard,CAR,13,RB68,,289,,183,236
+248,KJ Hamler,DEN,9,WR84,,265,,206,235.5
+249,Devin Duvernay,BAL,10,WR85,,234,,246,240
+250,Atlanta Falcons,DST,14,DST23,,201,,,201
+251,Myles Gaskin,MIA,11,RB69,,210,,273,241.5
+252,Keaontay Ingram,ARI,13,RB70,,244,,239,241.5
+253,Cade York,CLE,9,K19,201,311,,,256
+254,Cincinnati Bengals,DST,10,DST24,229,255,,,242
+255,Kyle Rudolph,TB,11,TE27,,233,,251,242
+256,William Fuller V,,,WR86,,220,,266,243
+257,Detroit Lions,DST,6,DST25,,209,,,209
+258,Jason Sanders,MIA,11,K20,210,303,,,256.5
+259,Trey Sermon,SF,9,RB71,,262,,231,246.5
+260,New York Giants,DST,9,DST26,,217,,,217
+261,Kenny Pickett,PIT,9,QB31,,280,,220,250
+262,Eno Benjamin,ARI,13,RB72,,319,,218,268.5
+263,Chris Evans,CIN,10,RB73,,316,,221,268.5
+264,Jake Elliott,PHI,7,K21,222,381,,,301.5
+265,Boston Scott,PHI,7,RB74,,246,,262,254
+266,Damien Williams,ATL,14,RB75,,227,,,227
+267,Parris Campbell,IND,14,WR87,,324,,227,275.5
+268,Carolina Panthers,DST,13,DST27,,228,,,228
+269,Joey Slye,WAS,14,K22,,230,,,230
+270,Laviska Shenault Jr.,JAC,11,WR88,,242,,271,256.5
+271,Tyler Badie,BAL,10,RB76,,256,,257,256.5
+272,Jonathan Garibay,,,K23,,232,,,232
+273,Brevin Jordan,HOU,6,TE28,,267,,247,257
+274,New York Jets,DST,10,DST28,,236,,,236
+275,Trey McBride,ARI,13,TE29,,276,,242,259
+276,Ameer Abdullah,LV,6,RB77,,237,,,237
+277,Samaje Perine,CIN,10,RB78,,263,,256,259.5
+278,Matt Breida,NYG,9,RB79,,258,,261,259.5
+279,C.J. Uzomah,NYJ,10,TE30,,238,,,238
+280,A.J. Green,ARI,13,WR89,,291,,238,264.5
+281,Jimmy Garoppolo,SF,9,QB32,,239,,,239
+282,Kyren Williams,LAR,7,RB80,,241,,,241
+283,Dontrell Hilliard,TEN,6,RB81,,268,,255,261.5
+284,Kendrick Bourne,NE,10,WR90,,290,,243,266.5
+285,Jonnu Smith,NE,10,TE31,,245,,,245
+286,Seattle Seahawks,DST,11,DST29,,247,,,247
+287,Tyquan Thornton,NE,10,WR91,,270,,259,264.5
+288,Terrace Marshall Jr.,CAR,13,WR92,,260,,270,265
+289,Olamide Zaccheaus,ATL,14,WR93,,250,,,250
+290,Jelani Woods,IND,14,TE32,,251,,,251
+291,Cedrick Wilson Jr.,MIA,11,WR94,,252,,,252
+292,Mike Davis,BAL,10,RB82,,254,,,254
+293,Jerick McKinnon,KC,8,RB83,,341,,254,297.5
+294,Marquez Callaway,NO,14,WR95,,257,,,257
+295,Zay Jones,JAC,11,WR96,,353,,258,305.5
+296,Ke'Shawn Vaughn,TB,11,RB84,,259,,,259
+297,Randall Cobb,GB,14,WR97,,332,,260,296
+298,Phillip Lindsay,IND,14,RB85,,261,,,261
+299,Velus Jones Jr.,CHI,14,WR98,,302,,263,282.5
+300,Marcus Mariota,ATL,14,QB33,,294,,264,279
+301,Mitch Trubisky,PIT,9,QB34,,306,,265,285.5
+302,Tyler Huntley,BAL,10,QB35,,266,,,266
+303,Nick Westbrook-Ikhine,TEN,6,WR99,,388,,267,327.5
+304,Mo Alie-Cox,IND,14,TE33,,327,,268,297.5
+305,Sterling Shepard,NYG,9,WR100,,269,,,269
+306,John Metchie III,HOU,6,WR101,,426,,269,347.5
+307,Justyn Ross,KC,8,WR102,,271,,,271
+308,Jalen Guyton,LAC,8,WR103,,272,,,272
+309,Bryan Edwards,ATL,14,WR104,,377,,272,324.5
+310,Abram Smith,NO,14,RB86,,273,,,273
+311,Adam Trautman,NO,14,TE34,,274,,,274
+312,Amari Rodgers,GB,14,WR105,,275,,,275
+313,Bailey Gaither,BAL,10,WR106,,,,275,275
+314,Akrum Wadley,,,RB87,,,,276,276
+315,J'mar Smith,,,QB36,,,,277,277
+316,Jack Doyle,,,TE35,,,,278,278
+317,Tony Jones Jr.,NO,14,RB88,,279,,,279
+318,Slade Bolden,BAL,10,WR107,,,,279,279
+319,Xavier Jones,,,RB89,,,,280,280
+320,James Washington,DAL,9,WR108,,281,,,281
+321,Andy Isabella,ARI,13,WR109,,,,281,281
+322,Kyle Philips,TEN,6,WR110,,283,,,283
+323,Pierre Strong Jr.,NE,10,RB90,,285,,,285
+324,Demarcus Robinson,BAL,10,WR111,,287,,,287
+325,Foster Moreau,LV,6,TE36,,292,,,292
+326,Cade Otton,TB,11,TE37,,293,,,293
+327,Ricky Seals-Jones,NYG,9,TE38,,295,,,295
+328,Desmond Ridder,ATL,14,QB37,,297,,,297
+329,Jacoby Brissett,CLE,9,QB38,,298,,,298
+330,Calvin Austin III,PIT,9,WR112,,300,,,300
+331,Daniel Bellinger,NYG,9,TE39,,301,,,301
+332,Duke Johnson Jr.,BUF,7,RB91,,304,,,304
+333,Arizona Cardinals,DST,13,DST30,,305,,,305
+334,Josh Reynolds,DET,6,WR113,,307,,,307
+335,Rashard Higgins,CAR,13,WR114,,308,,,308
+336,Snoop Conner,JAC,11,RB92,,309,,,309
+337,David Johnson,,,RB93,,310,,,310
+338,O.J. Howard,BUF,7,TE40,,313,,,313
+339,Jerrion Ealy,KC,8,RB94,,314,,,314
+340,Josiah Deguara,GB,14,TE41,,315,,,315
+341,Antonio Brown,,,WR115,,317,,,317
+342,Jauan Jennings,SF,9,WR116,,318,,,318
+343,Danny Gray,SF,9,WR117,,321,,,321
+344,Malik Willis,TEN,6,QB39,,322,,,322
+345,Byron Pringle,CHI,14,WR118,,323,,,323
+346,Cam Sims,WAS,14,WR119,,325,,,325
+347,Jaelon Darden,TB,11,WR120,,328,,,328
+348,N'Keal Harry,CHI,14,WR121,,329,,,329
+349,Josh Gordon,KC,8,WR122,,330,,,330
+350,Cairo Santos,CHI,14,K24,,331,,,331
+351,Geno Smith,SEA,11,QB40,,333,,,333
+352,Zack Moss,BUF,7,RB95,,334,,,334
+353,Jalen Nailor,MIN,7,WR123,,335,,,335
+354,James Proche II,BAL,10,WR124,,336,,,336
+355,Jody Fortson,KC,8,WR125,,337,,,337
+356,Jake Kumerow,BUF,7,WR126,,338,,,338
+357,Tyler Conklin,NYJ,10,TE42,,340,,,340
+358,Jake Funk,LAR,7,RB96,,342,,,342
+359,Cole Beasley,,,WR127,,343,,,343
+360,Emmanuel Sanders,,,WR128,,344,,,344
+361,Devontae Booker,,,RB97,,345,,,345
+362,Marquise Goodwin,SEA,11,WR129,,346,,,346
+363,Nelson Agholor,NE,10,WR130,,348,,,348
+364,Devonta Freeman,,,RB98,,349,,,349
+365,Andy Dalton,NO,14,QB41,,350,,,350
+366,Zach Pascal,PHI,7,WR131,,351,,,351
+367,Greg Dulcich,DEN,9,TE43,,352,,,352
+368,Tommy Tremble,CAR,13,TE44,,354,,,354
+369,T.Y. Hilton,,,WR132,,355,,,355
+370,Jordan Howard,,,RB99,,358,,,358
+371,Latavius Murray,,,RB100,,360,,,360
+372,Anthony McFarland Jr.,PIT,9,RB101,,361,,,361
+373,Drew Lock,SEA,11,QB42,,362,,,362
+374,Jaret Patterson,WAS,14,RB102,,363,,,363
+375,Michael Badgley,,,K25,,364,,,364
+376,Rex Burkhead,HOU,6,RB103,,365,,,365
+377,Graham Gano,NYG,9,K26,,366,,,366
+378,Mason Crosby,GB,14,K27,,367,,,367
+379,Quez Watkins,PHI,7,WR133,,368,,,368
+380,Khalil Shakir,BUF,7,WR134,,369,,,369
+381,Wayne Gallman Jr.,,,RB104,,370,,,370
+382,Kai Forbath,LAR,7,K28,,371,,,371
+383,Dan Arnold,JAC,11,TE45,,373,,,373
+384,Giovani Bernard,TB,11,RB105,,374,,,374
+385,Tre'Quan Smith,NO,14,WR135,,375,,,375
+386,Braxton Berrios,NYJ,10,WR136,,376,,,376
+387,Jared Cook,,,TE46,,378,,,378
+388,Derrick Gore,KC,8,RB106,,379,,,379
+389,Randy Bullock,TEN,6,K29,,380,,,380
+390,Kalif Raymond,DET,6,WR137,,382,,,382
+391,Brandon Bolden,LV,6,RB107,,383,,,383
+392,Sam Darnold,CAR,13,QB43,,385,,,385
+393,Tevin Coleman,NYJ,10,RB108,,386,,,386
+394,Ty Johnson,NYJ,10,RB109,,387,,,387
+395,Breshad Perriman,TB,11,WR138,,389,,,389
+396,Deonte Harty,NO,14,WR139,,390,,,390
+397,Raheem Blackshear,BUF,7,RB110,,391,,,391
+398,Roberto Aguayo,,,K30,,392,,,392
+399,Juwan Johnson,NO,14,TE47,,393,,,393
+400,Brayden Lenius,,,TE48,,394,,,394
+401,Equanimeous St. Brown,CHI,14,WR140,,395,,,395
+402,Lirim Hajrullahu,DAL,9,K31,,396,,,396
+403,Ryan Santoso,,,K32,,397,,,397
+404,Darius Slayton,NYG,9,WR141,,398,,,398
+405,Benny Snell Jr.,PIT,9,RB111,,399,,,399
+406,Dyami Brown,WAS,14,WR142,,400,,,400
+407,Joshua Kelley,LAC,8,RB112,,401,,,401
+408,Tutu Atwell,LAR,7,WR143,,402,,,402
+409,DeeJay Dallas,SEA,11,RB113,,403,,,403
+410,Qadree Ollison,ATL,14,RB114,,404,,,404
+411,Donald Parham Jr.,LAC,8,TE49,,405,,,405
+412,Isaiah Likely,BAL,10,TE50,,406,,,406
+413,Kene Nwangwu,MIN,7,RB115,,407,,,407
+414,Lynn Bowden Jr.,MIA,11,WR144,,408,,,408
+415,Dee Eskridge,SEA,11,WR145,,409,,,409
+416,Blaine Gabbert,TB,11,QB44,,410,,,410
+417,Cole Turner,WAS,14,TE51,,411,,,411
+418,Kyle Juszczyk,SF,9,RB116,,412,,,412
+419,Jordan Love,GB,14,QB45,,413,,,413
+420,Ty Montgomery,NE,10,RB117,,414,,,414
+421,Tyrod Taylor,NYG,9,QB46,,415,,,415
+422,Joe Flacco,NYJ,10,QB47,,416,,,416
+423,Harrison Bryant,CLE,9,TE52,,418,,,418
+424,Pharaoh Brown,HOU,6,TE53,,419,,,419
+425,Jaylen Warren,PIT,9,RB118,,420,,,420
+426,Chris Conley,HOU,6,WR146,,421,,,421
+427,Geoff Swaim,TEN,6,TE54,,422,,,422
+428,Freddie Swain,SEA,11,WR147,,423,,,423

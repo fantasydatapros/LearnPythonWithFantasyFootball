@@ -1,8 +1,8 @@
 # 2022 Data Summary
 
 ## Data Munging
-* Projection data from fantasypros.com
-* ADP data from fantasypros.com
+* Projection data from fantasypros.com (all positions)
+* ADP data from fantasypros.com (standard, ppr, half-ppr)
 
 ## Data Visualizations
 * Yearly fantasy data from PFR for 2021.
