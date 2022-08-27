@@ -30,4 +30,4 @@ By year:
 * Expert Concensus Rankings from Fantasy Pros.
 
 ## 12-nflfastR & In-Season Analysis
-* 2021 Play by Play data from nflfastR cut off at week 10 .
+* 2021 Play by Play data from nflfastR cut off at week 10.
