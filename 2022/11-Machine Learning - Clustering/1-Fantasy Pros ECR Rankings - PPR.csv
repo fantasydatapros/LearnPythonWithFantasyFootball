@@ -1,1835 +1,463 @@
-RK,Player,Team,Position,"Derek BrownDerek Brown on Twitter
-                                            
-                                            08/25/22","Andrew EricksonAndrew Erickson on Twitter
-                                            
-                                            08/25/22","Pat FitzmauricePat Fitzmaurice on Twitter
-                                            
-                                            08/25/22","Matthew FreedmanMatthew Freedman on Twitter
-                                            
-                                            08/25/22","Joe PisapiaJoe Pisapia on Twitter
-                                            
-                                            08/25/22"
-1,"Christian McCaffrey
-                                            
-                                            
-                                                ",CAR ,RB,1,1,1,1,2
-2,"Jonathan Taylor
-                                            
-                                            
-                                                ",IND ,RB,2,2,2,3,1
-3,"Austin Ekeler
-                                            
-                                            
-                                                ",LAC ,RB,3,4,6,2,7
-4,"Dalvin Cook
-                                            
-                                            
-                                                ",MIN ,RB,4,5,7,7,4
-5,"Justin Jefferson
-                                            
-                                            
-                                                ",MIN ,WR,6,3,5,10,6
-6,"Cooper Kupp
-                                            
-                                            
-                                                ",LAR ,WR,10,6,3,6,10
-7,"Najee Harris
-                                            
-                                            
-                                                ",PIT ,RB,12,11,8,4,8
-8,"Ja'Marr Chase
-                                            
-                                            
-                                                ",CIN ,WR,11,7,4,11,11
-9,"D'Andre Swift
-                                            
-                                            
-                                                ",DET ,RB,7,12,11,12,5
-10,"Joe Mixon
-                                            
-                                            
-                                                ",CIN ,RB,8,10,12,8,12
-11,"Stefon Diggs
-                                            
-                                            
-                                                ",BUF ,WR,13,8,9,13,14
-12,"Saquon Barkley
-                                            
-                                            
-                                                ",NYG ,RB,5,9,15,15,18
-13,"Davante Adams
-                                            
-                                            
-                                                ",LV ,WR,14,15,10,14,13
-14,"Derrick Henry
-                                            
-                                            
-                                                ",TEN ,RB,16,18,16,16,3
-15,"Travis Kelce
-                                            
-                                            
-                                                ",KC ,TE,9,19,14,9,19
-16,"CeeDee Lamb
-                                            
-                                            
-                                                ",DAL ,WR,17,17,13,17,17
-17,"Alvin Kamara
-                                            
-                                            
-                                                ",NO ,RB,18,13,20,21,15
-18,"Aaron Jones
-                                            
-                                            
-                                                ",GB ,RB,32,16,17,5,25
-19,"Mark Andrews
-                                            
-                                            
-                                                ",BAL ,TE,30,30,24,19,9
-20,"Leonard Fournette
-                                            
-                                            
-                                                ",TB ,RB,15,21,38,18,21
-21,"A.J. Brown
-                                            
-                                            
-                                                ",PHI ,WR,22,20,29,22,20
-22,"Javonte Williams
-                                            
-                                            
-                                                ",DEN ,RB,27,25,18,31,16
-23,"Kyle Pitts
-                                            
-                                            
-                                                ",ATL ,TE,19,14,30,30,30
-24,"Michael Pittman Jr.
-                                            
-                                            
-                                                ",IND ,WR,20,22,23,33,28
-25,"Keenan Allen
-                                            
-                                            
-                                                ",LAC ,WR,34,26,28,26,24
-26,"James Conner
-                                            
-                                            
-                                                ",ARI ,RB,21,35,27,25,31
-27,"Mike Williams
-                                            
-                                            
-                                                ",LAC ,WR,24,29,33,37,22
-28,"Mike Evans
-                                            
-                                            
-                                                ",TB ,WR,33,23,37,29,23
-29,"Tyreek Hill
-                                            
-                                            
-                                                ",MIA ,WR,26,37,21,23,39
-30,"Nick Chubb
-                                            
-                                            
-                                                ",CLE ,RB,38,31,25,27,27
-31,"Tee Higgins
-                                            
-                                            
-                                                ",CIN ,WR,29,28,22,28,42
-32,"Deebo Samuel
-                                            
-                                            
-                                                ",SF ,WR,46,39,19,24,29
-33,"Travis Etienne Jr.
-                                            
-                                            
-                                                ",JAC ,RB,31,27,31,32,38
-34,"Jaylen Waddle
-                                            
-                                            
-                                                ",MIA ,WR,28,33,39,42,26
-35,"DJ Moore
-                                            
-                                            
-                                                ",CAR ,WR,37,34,26,20,53
-36,"Josh Allen
-                                            
-                                            
-                                                ",BUF ,QB,36,36,36,36,36
-37,"Cam Akers
-                                            
-                                            
-                                                ",LAR ,RB,25,32,35,55,35
-38,"Breece Hall
-                                            
-                                            
-                                                ",NYJ ,RB,44,38,32,41,48
-39,"Courtland Sutton
-                                            
-                                            
-                                                ",DEN ,WR,23,24,66,58,37
-40,"Terry McLaurin
-                                            
-                                            
-                                                ",WAS ,WR,43,43,34,39,54
-41,"Ezekiel Elliott
-                                            
-                                            
-                                                ",DAL ,RB,48,55,48,35,32
-42,"Diontae Johnson
-                                            
-                                            
-                                                ",PIT ,WR,54,54,42,34,34
-43,"AJ Dillon
-                                            
-                                            
-                                                ",GB ,RB,49,44,44,44,41
-44,"Michael Thomas
-                                            
-                                            
-                                                ",NO ,WR,53,46,58,47,33
-45,"Brandin Cooks
-                                            
-                                            
-                                                ",HOU ,WR,42,65,47,46,43
-46,"George Kittle
-                                            
-                                            
-                                                ",SF ,TE,52,51,51,51,52
-47,"Patrick Mahomes II
-                                            
-                                            
-                                                ",KC ,QB,69,68,40,40,45
-48,"Rashod Bateman
-                                            
-                                            
-                                                ",BAL ,WR,39,58,53,57,63
-49,"Lamar Jackson
-                                            
-                                            
-                                                ",BAL ,QB,40,67,69,45,50
-50,"Chase Edmonds
-                                            
-                                            
-                                                ",MIA ,RB,35,62,49,64,62
-51,"J.K. Dobbins
-                                            
-                                            
-                                                ",BAL ,RB,73,49,55,48,49
-52,"Darren Waller
-                                            
-                                            
-                                                ",LV ,TE,67,52,52,52,51
-53,"Gabriel Davis
-                                            
-                                            
-                                                ",BUF ,WR,65,47,46,72,46
-54,"Josh Jacobs
-                                            
-                                            
-                                                ",LV ,RB,64,48,64,60,44
-55,"Justin Herbert
-                                            
-                                            
-                                                ",LAC ,QB,68,45,68,68,40
-56,"David Montgomery
-                                            
-                                            
-                                                ",CHI ,RB,70,60,41,38,82
-57,"Kyler Murray
-                                            
-                                            
-                                                ",ARI ,QB,50,50,45,69,79
-58,"Marquise Brown
-                                            
-                                            
-                                                ",ARI ,WR,58,42,75,54,65
-59,"Jalen Hurts
-                                            
-                                            
-                                                ",PHI ,QB,45,40,78,50,85
-60,"DK Metcalf
-                                            
-                                            
-                                                ",SEA ,WR,75,71,43,43,72
-61,"Amon-Ra St. Brown
-                                            
-                                            
-                                                ",DET ,WR,66,59,76,63,47
-62,"Allen Robinson II
-                                            
-                                            
-                                                ",LAR ,WR,47,53,54,61,97
-63,"Elijah Mitchell
-                                            
-                                            
-                                                ",SF ,RB,56,41,60,74,84
-64,"Darnell Mooney
-                                            
-                                            
-                                                ",CHI ,WR,57,61,57,66,76
-65,"Jerry Jeudy
-                                            
-                                            
-                                                ",DEN ,WR,63,57,63,77,59
-66,"Dalton Schultz
-                                            
-                                            
-                                                ",DAL ,TE,51,70,71,67,67
-67,"Tony Pollard
-                                            
-                                            
-                                                ",DAL ,RB,41,69,62,91,64
-68,"Elijah Moore
-                                            
-                                            
-                                                ",NYJ ,WR,80,63,61,75,57
-69,"Kareem Hunt
-                                            
-                                            
-                                                ",CLE ,RB,60,64,81,62,70
-70,"Chris Godwin
-                                            
-                                            
-                                                ",TB ,WR,59,66,65,110,58
-71,"Drake London
-                                            
-                                            
-                                                ",ATL ,WR,61,76,77,65,80
-72,"Joe Burrow
-                                            
-                                            
-                                                ",CIN ,QB,85,77,50,79,69
-73,"Miles Sanders
-                                            
-                                            
-                                                ",PHI ,RB,62,93,70,49,88
-74,"Rhamondre Stevenson
-                                            
-                                            
-                                                ",NE ,RB,81,72,73,84,55
-75,"Clyde Edwards-Helaire
-                                            
-                                            
-                                                ",KC ,RB,55,87,74,56,114
-76,"Damien Harris
-                                            
-                                            
-                                                ",NE ,RB,82,83,83,82,56
-77,"JuJu Smith-Schuster
-                                            
-                                            
-                                                ",KC ,WR,118,74,72,59,66
-78,"Amari Cooper
-                                            
-                                            
-                                                ",CLE ,WR,111,95,59,53,77
-79,"Dameon Pierce
-                                            
-                                            
-                                                ",HOU ,RB,83,56,88,108,60
-80,"Dallas Goedert
-                                            
-                                            
-                                                ",PHI ,TE,71,101,89,71,71
-81,"Christian Kirk
-                                            
-                                            
-                                                ",JAC ,WR,72,75,106,76,75
-82,"Devin Singletary
-                                            
-                                            
-                                                ",BUF ,RB,90,73,91,81,73
-83,"Antonio Gibson
-                                            
-                                            
-                                                ",WAS ,RB,117,80,56,83,74
-84,"Rashaad Penny
-                                            
-                                            
-                                                ",SEA ,RB,74,81,82,90,83
-85,"T.J. Hockenson
-                                            
-                                            
-                                                ",DET ,TE,89,88,67,89,89
-86,"Trey Lance
-                                            
-                                            
-                                                ",SF ,QB,100,78,79,78,87
-87,"Tom Brady
-                                            
-                                            
-                                                ",TB ,QB,87,84,101,87,68
-88,"James Cook
-                                            
-                                            
-                                                ",BUF ,RB,84,90,84,88,92
-89,"Dak Prescott
-                                            
-                                            
-                                                ",DAL ,QB,79,100,87,100,78
-90,"Melvin Gordon III
-                                            
-                                            
-                                                ",DEN ,RB,94,107,94,73,81
-91,"Russell Wilson
-                                            
-                                            
-                                                ",DEN ,QB,78,99,85,99,99
-92,"Cordarrelle Patterson
-                                            
-                                            
-                                                ",ATL ,RB,127,82,92,70,91
-93,"Hunter Renfrow
-                                            
-                                            
-                                                ",LV ,WR,96,97,98,112,61
-94,"Zach Ertz
-                                            
-                                            
-                                                ",ARI ,TE,95,92,93,93,95
-95,"Kadarius Toney
-                                            
-                                            
-                                                ",NYG ,WR,98,96,97,80,98
-96,"Cole Kmet
-                                            
-                                            
-                                                ",CHI ,TE,93,94,95,102,93
-97,"Allen Lazard
-                                            
-                                            
-                                                ",GB ,WR,121,79,107,86,86
-98,"Adam Thielen
-                                            
-                                            
-                                                ",MIN ,WR,77,129,96,97,96
-99,"DeVonta Smith
-                                            
-                                            
-                                                ",PHI ,WR,86,104,103,96,109
-100,"Brian Robinson Jr.
-                                            
-                                            
-                                                ",WAS ,RB,88,89,117,115,90
-101,"Brandon Aiyuk
-                                            
-                                            
-                                                ",SF ,WR,107,105,80,106,106
-102,"Tyler Lockett
-                                            
-                                            
-                                                ",SEA ,WR,105,109,86,103,110
-103,"Michael Carter
-                                            
-                                            
-                                                ",NYJ ,RB,91,91,115,92,139
-104,"Derek Carr
-                                            
-                                            
-                                                ",LV ,QB,119,86,100,126,101
-105,"Matthew Stafford
-                                            
-                                            
-                                                ",LAR ,QB,99,123,119,85,119
-106,"Skyy Moore
-                                            
-                                            
-                                                ",KC ,WR,76,85,110,173,105
-107,"Ken Walker III
-                                            
-                                            
-                                                ",SEA ,RB,115,113,90,132,116
-108,"Treylon Burks
-                                            
-                                            
-                                                ",TEN ,WR,123,106,122,109,112
-109,"David Njoku
-                                            
-                                            
-                                                ",CLE ,TE,102,103,135,95,140
-110,"Chris Olave
-                                            
-                                            
-                                                ",NO ,WR,109,128,111,121,107
-111,"Nyheim Hines
-                                            
-                                            
-                                                ",IND ,RB,108,156,108,94,117
-112,"Russell Gage
-                                            
-                                            
-                                                ",TB ,WR,110,102,134,123,122
-113,"Aaron Rodgers
-                                            
-                                            
-                                                ",GB ,QB,126,124,99,119,124
-114,"DeAndre Hopkins
-                                            
-                                            
-                                                ",ARI ,WR,134,122,105,111,123
-115,"Justin Fields
-                                            
-                                            
-                                                ",CHI ,QB,101,118,160,101,125
-116,"Kirk Cousins
-                                            
-                                            
-                                                ",MIN ,QB,124,98,124,160,100
-117,"Robert Woods
-                                            
-                                            
-                                                ",TEN ,WR,149,133,113,98,113
-118,"Alexander Mattison
-                                            
-                                            
-                                                ",MIN ,RB,131,114,127,120,115
-119,"Chase Claypool
-                                            
-                                            
-                                                ",PIT ,WR,122,117,118,118,146
-120,"Jakobi Meyers
-                                            
-                                            
-                                                ",NE ,WR,112,147,146,107,111
-121,"George Pickens
-                                            
-                                            
-                                                ",PIT ,WR,137,136,109,113,130
-122,"Tyler Boyd
-                                            
-                                            
-                                                ",CIN ,WR,113,111,123,133,151
-123,"Dawson Knox
-                                            
-                                            
-                                                ",BUF ,TE,153,134,102,104,144
-124,"Kenneth Gainwell
-                                            
-                                            
-                                                ",PHI ,RB,132,116,116,143,132
-125,"Julio Jones
-                                            
-                                            
-                                                ",TB ,WR,106,121,194,105,118
-126,"Garrett Wilson
-                                            
-                                            
-                                                ",NYJ ,WR,129,112,121,145,137
-127,"Pat Freiermuth
-                                            
-                                            
-                                                ",PIT ,TE,141,141,128,135,102
-128,"Albert Okwuegbunam
-                                            
-                                            
-                                                ",DEN ,TE,140,127,142,142,104
-129,"Irv Smith Jr.
-                                            
-                                            
-                                                ",MIN ,TE,104,140,144,128,142
-130,"Darrell Henderson Jr.
-                                            
-                                            
-                                                ",LAR ,RB,138,160,114,114,138
-131,"Khalil Herbert
-                                            
-                                            
-                                                ",CHI ,RB,227,119,120,116,94
-132,"Jarvis Landry
-                                            
-                                            
-                                                ",NO ,WR,136,120,150,136,134
-133,"Isiah Pacheco
-                                            
-                                            
-                                                ",KC ,RB,143,137,138,139,120
-134,"Jahan Dotson
-                                            
-                                            
-                                                ",WAS ,WR,130,132,112,122,185
-135,"Marquez Valdes-Scantling
-                                            
-                                            
-                                                ",KC ,WR,187,110,129,129,133
-136,"Rondale Moore
-                                            
-                                            
-                                                ",ARI ,WR,103,183,137,148,121
-137,"DeVante Parker
-                                            
-                                            
-                                                ",NE ,WR,206,108,130,149,103
-138,"Hunter Henry
-                                            
-                                            
-                                                ",NE ,TE,142,151,140,140,128
-139,"Isaiah McKenzie
-                                            
-                                            
-                                                ",BUF ,WR,97,149,185,134,150
-140,"James Robinson
-                                            
-                                            
-                                                ",JAC ,RB,157,138,139,138,143
-141,"Tua Tagovailoa
-                                            
-                                            
-                                                ",MIA ,QB,125,170,125,124,172
-142,"Gerald Everett
-                                            
-                                            
-                                                ",LAC ,TE,128,139,167,144,153
-143,"Noah Fant
-                                            
-                                            
-                                                ",SEA ,TE,179,143,104,165,141
-144,"Jamaal Williams
-                                            
-                                            
-                                                ",DET ,RB,114,145,132,127,217
-145,"Trevor Lawrence
-                                            
-                                            
-                                                ",JAC ,QB,197,161,126,125,126
-146,"Mike Gesicki
-                                            
-                                            
-                                                ",MIA ,TE,144,163,141,179,135
-147,"Rachaad White
-                                            
-                                            
-                                                ",TB ,RB,139,126,154,189,157
-148,"Jalen Tolbert
-                                            
-                                            
-                                                ",DAL ,WR,133,146,145,205,136
-149,"Joshua Palmer
-                                            
-                                            
-                                                ",LAC ,WR,186,135,152,152,148
-150,"Isaiah Spiller
-                                            
-                                            
-                                                ",LAC ,RB,92,236,143,157,154
-151,"Buffalo Bills
-                                            
-                                            
-                                                ",BUF ,DST,155,168,155,155,156
-152,"J.D. McKissic
-                                            
-                                            
-                                                ",WAS ,RB,154,254,162,117,108
-153,"K.J. Osborn
-                                            
-                                            
-                                                ",MIN ,WR,203,144,173,185,129
-154,"Wan'Dale Robinson
-                                            
-                                            
-                                                ",NYG ,WR,145,185,151,150,203
-155,"Robert Tonyan
-                                            
-                                            
-                                                ",GB ,TE,182,177,153,141,182
-156,"Tampa Bay Buccaneers
-                                            
-                                            
-                                                ",TB ,DST,169,198,159,156,155
-157,"Brevin Jordan
-                                            
-                                            
-                                                ",HOU ,TE,165,165,190,153,167
-158,"San Francisco 49ers
-                                            
-                                            
-                                                ",SF ,DST,180,153,180,159,169
-159,"Jameis Winston
-                                            
-                                            
-                                                ",NO ,QB,193,125,168,168,193
-160,"Darrel Williams
-                                            
-                                            
-                                                ",ARI ,RB,147,130,283,162,127
-161,"Tyler Allgeier
-                                            
-                                            
-                                                ",ATL ,RB,176,142,131,274,131
-162,"Matt Ryan
-                                            
-                                            
-                                                ",IND ,QB,160,191,172,172,160
-163,"Kenny Golladay
-                                            
-                                            
-                                                ",NYG ,WR,196,208,136,130,186
-164,"Nico Collins
-                                            
-                                            
-                                                ",HOU ,WR,151,192,186,137,196
-165,"Justin Tucker
-                                            
-                                            
-                                                ",BAL ,K,175,173,175,175,175
-166,"New Orleans Saints
-                                            
-                                            
-                                                ",NO ,DST,170,162,171,164,211
-167,"Mac Jones
-                                            
-                                            
-                                                ",NE ,QB,178,166,202,178,163
-168,"Tyler Higbee
-                                            
-                                            
-                                                ",LAR ,TE,167,164,166,182,209
-169,"Daniel Jones
-                                            
-                                            
-                                                ",NYG ,QB,168,158,163,163,241
-170,"Parris Campbell
-                                            
-                                            
-                                                ",IND ,WR,150,184,210,146,208
-171,"Michael Gallup
-                                            
-                                            
-                                                ",DAL ,WR,220,186,133,187,173
-172,"Denver Broncos
-                                            
-                                            
-                                                ",DEN ,DST,171,154,207,169,201
-173,"Jameson Williams
-                                            
-                                            
-                                                ",DET ,WR,146,193,214,208,145
-174,"Mark Ingram II
-                                            
-                                            
-                                                ",NO ,RB,162,159,147,174,264
-175,"Indianapolis Colts
-                                            
-                                            
-                                                ",IND ,DST,230,178,170,170,164
-176,"Romeo Doubs
-                                            
-                                            
-                                                ",GB ,WR,208,148,220,188,149
-177,"Tyrion Davis-Price
-                                            
-                                            
-                                                ",SF ,RB,198,155,157,176,227
-178,"Los Angeles Rams
-                                            
-                                            
-                                                ",LAR ,DST,159,211,213,171,171
-179,"New England Patriots
-                                            
-                                            
-                                                ",NE ,DST,225,209,156,180,159
-180,"Hayden Hurst
-                                            
-                                            
-                                                ",CIN ,TE,135,180,182,167,282
-181,"Dallas Cowboys
-                                            
-                                            
-                                                ",DAL ,DST,200,205,164,207,170
-182,"Baltimore Ravens
-                                            
-                                            
-                                                ",BAL ,DST,164,167,225,211,180
-183,"Zamir White
-                                            
-                                            
-                                                ",LV ,RB,245,235,161,147,162
-184,"Sony Michel
-                                            
-                                            
-                                                ",MIA ,RB,283,115,177,227,161
-185,"Raheem Mostert
-                                            
-                                            
-                                                ",MIA ,RB,158,233,217,161,198
-186,"DJ Chark Jr.
-                                            
-                                            
-                                                ",DET ,WR,223,218,148,194,187
-187,"Austin Hooper
-                                            
-                                            
-                                                ",,TEN TE,190,234,179,209,165
-188,"D'Ernest Johnson
-                                            
-                                            
-                                                ",CLE ,RB,199,131,176,235,238
-189,"KJ Hamler
-                                            
-                                            
-                                                ",DEN ,WR,205,150,188,242,194
-190,"Matt Gay
-                                            
-                                            
-                                                ",LAR ,K,204,182,184,181,233
-191,"Jared Goff
-                                            
-                                            
-                                                ",DET ,QB,163,176,197,275,178
-192,"Tyler Bass
-                                            
-                                            
-                                                ",BUF ,K,184,219,221,184,191
-193,"Marvin Jones Jr.
-                                            
-                                            
-                                                ",JAC ,WR,210,240,187,214,152
-194,"Mecole Hardman
-                                            
-                                            
-                                                ",KC ,WR,185,171,195,186,268
-195,"Christian Watson
-                                            
-                                            
-                                                ",GB ,WR,148,201,229,196,240
-196,"Mo Alie-Cox
-                                            
-                                            
-                                                ",IND ,TE,166,207,246,232,166
-197,"Kansas City Chiefs
-                                            
-                                            
-                                                ",KC ,DST,207,248,169,201,207
-198,"Corey Davis
-                                            
-                                            
-                                                ",NYJ ,WR,231,220,149,203,231
-199,"Robbie Anderson
-                                            
-                                            
-                                                ",CAR ,WR,195,212,231,210,195
-200,"Alec Pierce
-                                            
-                                            
-                                                ",IND ,WR,152,266,196,212,223
-201,"Logan Thomas
-                                            
-                                            
-                                                ",WAS ,TE,260,188,232,190,179
-202,"Ryan Tannehill
-                                            
-                                            
-                                                ",TEN ,QB,254,239,193,197,168
-203,"Samaje Perine
-                                            
-                                            
-                                                ",CIN ,RB,192,262,198,131,274
-204,"Green Bay Packers
-                                            
-                                            
-                                                ",GB ,DST,201,217,200,230,213
-205,"Cleveland Browns
-                                            
-                                            
-                                                ",CLE ,DST,248,157,219,219,219
-206,"Evan Engram
-                                            
-                                            
-                                                ",JAC ,TE,258,230,165,166,258
-207,"Miami Dolphins
-                                            
-                                            
-                                                ",MIA ,DST,250,169,201,213,248
-208,"Deshaun Watson
-                                            
-                                            
-                                                ",CLE ,QB,202,314,178,193,197
-209,"Rodrigo Blankenship
-                                            
-                                            
-                                                ",IND ,K,228,213,191,239,218
-210,"Matt Prater
-                                            
-                                            
-                                                ",ARI ,K,239,189,224,221,221
-211,"Van Jefferson
-                                            
-                                            
-                                                ",LAR ,WR,194,224,222,240,214
-212,"David Bell
-                                            
-                                            
-                                                ",CLE ,WR,229,206,203,195,261
-213,"Zay Jones
-                                            
-                                            
-                                                ",JAC ,WR,243,194,223,226,212
-214,"Los Angeles Chargers
-                                            
-                                            
-                                                ",LAC ,DST,156,199,279,200,266
-215,"D'Onta Foreman
-                                            
-                                            
-                                                ",CAR ,RB,316,181,192,237,177
-216,"Daniel Carlson
-                                            
-                                            
-                                                ",LV ,K,215,179,249,215,249
-217,"Jeff Wilson Jr.
-                                            
-                                            
-                                                ",SF ,RB,259,215,310,154,176
-218,"Marlon Mack
-                                            
-                                            
-                                                ",HOU ,RB,183,307,174,177,277
-219,"Ryan Succop
-                                            
-                                            
-                                                ",TB ,K,224,237,251,191,215
-220,"Pittsburgh Steelers
-                                            
-                                            
-                                                ",PIT ,DST,234,232,230,225,200
-221,"Gus Edwards
-                                            
-                                            
-                                                ",BAL ,RB,235,255,227,259,147
-222,"Kendrick Bourne
-                                            
-                                            
-                                                ",NE ,WR,188,204,261,269,205
-223,"Joshua Kelley
-                                            
-                                            
-                                                ",LAC ,RB,237,152,277,183,280
-224,"Donovan Peoples-Jones
-                                            
-                                            
-                                                ",CLE ,WR,222,259,216,220,220
-225,"Evan McPherson
-                                            
-                                            
-                                                ",CIN ,K,221,222,204,204,291
-226,"Curtis Samuel
-                                            
-                                            
-                                                ",WAS ,WR,216,203,240,222,262
-227,"Trey Sermon
-                                            
-                                            
-                                                ",SF ,RB,174,285,272,217,199
-228,"Jerick McKinnon
-                                            
-                                            
-                                                ",KC ,RB,257,175,189,272,259
-229,"Laviska Shenault Jr.
-                                            
-                                            
-                                                ",JAC ,WR,244,210,208,247,244
-230,"Tyler Conklin
-                                            
-                                            
-                                                ",NYJ ,TE,209,244,258,255,190
-231,"William Fuller V
-                                            
-                                            
-                                                ",FA ,WR,268,221,205,223,242
-232,"Jamison Crowder
-                                            
-                                            
-                                                ",BUF ,WR,226,214,285,229,206
-233,"A.J. Green
-                                            
-                                            
-                                                ",ARI ,WR,214,261,212,231,243
-234,"Cincinnati Bengals
-                                            
-                                            
-                                                ",CIN ,DST,213,246,234,250,225
-235,"Robbie Gould
-                                            
-                                            
-                                                ",SF ,K,252,273,215,224,228
-236,"Philadelphia Eagles
-                                            
-                                            
-                                                ",PHI ,DST,219,264,211,234,278
-237,"Sammy Watkins
-                                            
-                                            
-                                                ",GB ,WR,297,309,226,151,226
+RK,Player,Team,Position,AVG
+1,Christian McCaffrey,CAR ,RB,1.2
+2,Jonathan Taylor,IND ,RB,2.0
+3,Austin Ekeler,LAC ,RB,4.4
+4,Dalvin Cook,MIN ,RB,5.4
+5,Justin Jefferson,MIN ,WR,6.0
+6,Cooper Kupp,LAR ,WR,7.0
+7,Najee Harris,PIT ,RB,8.6
+8,Ja'Marr Chase,CIN ,WR,8.8
+9,D'Andre Swift,DET ,RB,9.4
+10,Joe Mixon,CIN ,RB,10.0
+11,Stefon Diggs,BUF ,WR,11.4
+12,Saquon Barkley,NYG ,RB,12.4
+13,Davante Adams,LV ,WR,13.2
+14,Derrick Henry,TEN ,RB,13.8
+15,Travis Kelce,KC ,TE,14.0
+16,CeeDee Lamb,DAL ,WR,16.2
+17,Alvin Kamara,NO ,RB,17.4
+18,Aaron Jones,GB ,RB,19.0
+19,Mark Andrews,BAL ,TE,22.4
+20,Leonard Fournette,TB ,RB,22.6
+21,A.J. Brown,PHI ,WR,22.6
+22,Javonte Williams,DEN ,RB,23.4
+23,Kyle Pitts,ATL ,TE,24.6
+24,Michael Pittman Jr.,IND ,WR,25.2
+25,Keenan Allen,LAC ,WR,27.6
+26,James Conner,ARI ,RB,27.8
+27,Mike Williams,LAC ,WR,29.0
+28,Mike Evans,TB ,WR,29.0
+29,Tyreek Hill,MIA ,WR,29.2
+30,Nick Chubb,CLE ,RB,29.6
+31,Tee Higgins,CIN ,WR,29.8
+32,Deebo Samuel,SF ,WR,31.4
+33,Travis Etienne Jr.,JAC ,RB,31.8
+34,Jaylen Waddle,MIA ,WR,33.6
+35,DJ Moore,CAR ,WR,34.0
+36,Josh Allen,BUF ,QB,36.0
+37,Cam Akers,LAR ,RB,36.4
+38,Breece Hall,NYJ ,RB,40.6
+39,Courtland Sutton,DEN ,WR,41.6
+40,Terry McLaurin,WAS ,WR,42.6
+41,Ezekiel Elliott,DAL ,RB,43.6
+42,Diontae Johnson,PIT ,WR,43.6
+43,AJ Dillon,GB ,RB,44.4
+44,Michael Thomas,NO ,WR,47.4
+45,Brandin Cooks,HOU ,WR,48.6
+46,George Kittle,SF ,TE,51.4
+47,Patrick Mahomes II,KC ,QB,52.4
+48,Rashod Bateman,BAL ,WR,54.0
+49,Lamar Jackson,BAL ,QB,54.2
+50,Chase Edmonds,MIA ,RB,54.4
+51,J.K. Dobbins,BAL ,RB,54.8
+52,Darren Waller,LV ,TE,54.8
+53,Gabriel Davis,BUF ,WR,55.2
+54,Josh Jacobs,LV ,RB,56.0
+55,Justin Herbert,LAC ,QB,57.8
+56,David Montgomery,CHI ,RB,58.2
+57,Kyler Murray,ARI ,QB,58.6
+58,Marquise Brown,ARI ,WR,58.8
+59,Jalen Hurts,PHI ,QB,59.6
+60,DK Metcalf,SEA ,WR,60.8
+61,Amon-Ra St. Brown,DET ,WR,62.2
+62,Allen Robinson II,LAR ,WR,62.4
+63,Elijah Mitchell,SF ,RB,63.0
+64,Darnell Mooney,CHI ,WR,63.4
+65,Jerry Jeudy,DEN ,WR,63.8
+66,Dalton Schultz,DAL ,TE,65.2
+67,Tony Pollard,DAL ,RB,65.4
+68,Elijah Moore,NYJ ,WR,67.2
+69,Kareem Hunt,CLE ,RB,67.4
+70,Chris Godwin,TB ,WR,71.6
+71,Drake London,ATL ,WR,71.8
+72,Joe Burrow,CIN ,QB,72.0
+73,Miles Sanders,PHI ,RB,72.4
+74,Rhamondre Stevenson,NE ,RB,73.0
+75,Clyde Edwards-Helaire,KC ,RB,77.2
+76,Damien Harris,NE ,RB,77.2
+77,JuJu Smith-Schuster,KC ,WR,77.8
+78,Amari Cooper,CLE ,WR,79.0
+79,Dameon Pierce,HOU ,RB,79.0
+80,Dallas Goedert,PHI ,TE,80.6
+81,Christian Kirk,JAC ,WR,80.8
+82,Devin Singletary,BUF ,RB,81.6
+83,Antonio Gibson,WAS ,RB,82.0
+84,Rashaad Penny,SEA ,RB,82.0
+85,T.J. Hockenson,DET ,TE,84.4
+86,Trey Lance,SF ,QB,84.4
+87,Tom Brady,TB ,QB,85.4
+88,James Cook,BUF ,RB,87.6
+89,Dak Prescott,DAL ,QB,88.8
+90,Melvin Gordon III,DEN ,RB,89.8
+91,Russell Wilson,DEN ,QB,92.0
+92,Cordarrelle Patterson,ATL ,RB,92.4
+93,Hunter Renfrow,LV ,WR,92.8
+94,Zach Ertz,ARI ,TE,93.6
+95,Kadarius Toney,NYG ,WR,93.8
+96,Cole Kmet,CHI ,TE,95.4
+97,Allen Lazard,GB ,WR,95.8
+98,Adam Thielen,MIN ,WR,99.0
+99,DeVonta Smith,PHI ,WR,99.6
+100,Brian Robinson Jr.,WAS ,RB,99.8
+101,Brandon Aiyuk,SF ,WR,100.8
+102,Tyler Lockett,SEA ,WR,102.6
+103,Michael Carter,NYJ ,RB,105.6
+104,Derek Carr,LV ,QB,106.4
+105,Matthew Stafford,LAR ,QB,109.0
+106,Skyy Moore,KC ,WR,109.8
+107,Ken Walker III,SEA ,RB,113.2
+108,Treylon Burks,TEN ,WR,114.4
+109,David Njoku,CLE ,TE,115.0
+110,Chris Olave,NO ,WR,115.2
+111,Nyheim Hines,IND ,RB,116.6
+112,Russell Gage,TB ,WR,118.2
+113,Aaron Rodgers,GB ,QB,118.4
+114,DeAndre Hopkins,ARI ,WR,119.0
+115,Justin Fields,CHI ,QB,121.0
+116,Kirk Cousins,MIN ,QB,121.2
+117,Robert Woods,TEN ,WR,121.2
+118,Alexander Mattison,MIN ,RB,121.4
+119,Chase Claypool,PIT ,WR,124.2
+120,Jakobi Meyers,NE ,WR,124.6
+121,George Pickens,PIT ,WR,125.0
+122,Tyler Boyd,CIN ,WR,126.2
+123,Dawson Knox,BUF ,TE,127.4
+124,Kenneth Gainwell,PHI ,RB,127.8
+125,Julio Jones,TB ,WR,128.8
+126,Garrett Wilson,NYJ ,WR,128.8
+127,Pat Freiermuth,PIT ,TE,129.4
+128,Albert Okwuegbunam,DEN ,TE,131.0
+129,Irv Smith Jr.,MIN ,TE,131.6
+130,Darrell Henderson Jr.,LAR ,RB,132.8
+131,Khalil Herbert,CHI ,RB,135.2
+132,Jarvis Landry,NO ,WR,135.2
+133,Isiah Pacheco,KC ,RB,135.4
+134,Jahan Dotson,WAS ,WR,136.2
+135,Marquez Valdes-Scantling,KC ,WR,137.6
+136,Rondale Moore,ARI ,WR,138.4
+137,DeVante Parker,NE ,WR,139.2
+138,Hunter Henry,NE ,TE,140.2
+139,Isaiah McKenzie,BUF ,WR,143.0
+140,James Robinson,JAC ,RB,143.0
+141,Tua Tagovailoa,MIA ,QB,143.2
+142,Gerald Everett,LAC ,TE,146.2
+143,Noah Fant,SEA ,TE,146.4
+144,Jamaal Williams,DET ,RB,147.0
+145,Trevor Lawrence,JAC ,QB,147.0
+146,Mike Gesicki,MIA ,TE,152.4
+147,Rachaad White,TB ,RB,153.0
+148,Jalen Tolbert,DAL ,WR,153.0
+149,Joshua Palmer,LAC ,WR,154.6
+150,Isaiah Spiller,LAC ,RB,156.4
+151,Buffalo Bills,BUF ,DST,157.8
+152,J.D. McKissic,WAS ,RB,159.0
+153,K.J. Osborn,MIN ,WR,166.8
+154,Wan'Dale Robinson,NYG ,WR,166.8
+155,Robert Tonyan,GB ,TE,167.0
+156,Tampa Bay Buccaneers,TB ,DST,167.4
+157,Brevin Jordan,HOU ,TE,168.0
+158,San Francisco 49ers,SF ,DST,168.2
+159,Jameis Winston,NO ,QB,169.4
+160,Darrel Williams,ARI ,RB,169.8
+161,Tyler Allgeier,ATL ,RB,170.8
+162,Matt Ryan,IND ,QB,171.0
+163,Kenny Golladay,NYG ,WR,171.2
+164,Nico Collins,HOU ,WR,172.4
+165,Justin Tucker,BAL ,K,174.6
+166,New Orleans Saints,NO ,DST,175.6
+167,Mac Jones,NE ,QB,177.4
+168,Tyler Higbee,LAR ,TE,177.6
+169,Daniel Jones,NYG ,QB,178.6
+170,Parris Campbell,IND ,WR,179.6
+171,Michael Gallup,DAL ,WR,179.8
+172,Denver Broncos,DEN ,DST,180.4
+173,Jameson Williams,DET ,WR,181.2
+174,Mark Ingram II,NO ,RB,181.2
+175,Indianapolis Colts,IND ,DST,182.4
+176,Romeo Doubs,GB ,WR,182.6
+177,Tyrion Davis-Price,SF ,RB,182.6
+178,Los Angeles Rams,LAR ,DST,185.0
+179,New England Patriots,NE ,DST,185.8
+180,Hayden Hurst,CIN ,TE,189.2
+181,Dallas Cowboys,DAL ,DST,189.2
+182,Baltimore Ravens,BAL ,DST,189.4
+183,Zamir White,LV ,RB,190.0
+184,Sony Michel,MIA ,RB,192.6
+185,Raheem Mostert,MIA ,RB,193.4
+186,DJ Chark Jr.,DET ,WR,194.0
+187,Austin Hooper,,TEN TE,195.4
+188,D'Ernest Johnson,CLE ,RB,195.8
+189,KJ Hamler,DEN ,WR,195.8
+190,Matt Gay,LAR ,K,196.8
+191,Jared Goff,DET ,QB,197.8
+192,Tyler Bass,BUF ,K,199.8
+193,Marvin Jones Jr.,JAC ,WR,200.6
+194,Mecole Hardman,KC ,WR,201.0
+195,Christian Watson,GB ,WR,202.8
+196,Mo Alie-Cox,IND ,TE,203.4
+197,Kansas City Chiefs,KC ,DST,206.4
+198,Corey Davis,NYJ ,WR,206.8
+199,Robbie Anderson,CAR ,WR,208.6
+200,Alec Pierce,IND ,WR,209.8
+201,Logan Thomas,WAS ,TE,209.8
+202,Ryan Tannehill,TEN ,QB,210.2
+203,Samaje Perine,CIN ,RB,211.4
+204,Green Bay Packers,GB ,DST,212.2
+205,Cleveland Browns,CLE ,DST,212.4
+206,Evan Engram,JAC ,TE,215.4
+207,Miami Dolphins,MIA ,DST,216.2
+208,Deshaun Watson,CLE ,QB,216.8
+209,Rodrigo Blankenship,IND ,K,217.8
+210,Matt Prater,ARI ,K,218.8
+211,Van Jefferson,LAR ,WR,218.8
+212,David Bell,CLE ,WR,218.8
+213,Zay Jones,JAC ,WR,219.6
+214,Los Angeles Chargers,LAC ,DST,220.0
+215,D'Onta Foreman,CAR ,RB,220.6
+216,Daniel Carlson,LV ,K,221.4
+217,Jeff Wilson Jr.,SF ,RB,222.8
+218,Marlon Mack,HOU ,RB,223.6
+219,Ryan Succop,TB ,K,223.6
+220,Pittsburgh Steelers,PIT ,DST,224.2
+221,Gus Edwards,BAL ,RB,224.6
+222,Kendrick Bourne,NE ,WR,225.4
+223,Joshua Kelley,LAC ,RB,225.8
+224,Donovan Peoples-Jones,CLE ,WR,227.4
+225,Evan McPherson,CIN ,K,228.4
+226,Curtis Samuel,WAS ,WR,228.6
+227,Trey Sermon,SF ,RB,229.4
+228,Jerick McKinnon,KC ,RB,230.4
+229,Laviska Shenault Jr.,JAC ,WR,230.6
+230,Tyler Conklin,NYJ ,TE,231.2
+231,William Fuller V,FA ,WR,231.8
+232,Jamison Crowder,BUF ,WR,232.0
+233,A.J. Green,ARI ,WR,232.2
+234,Cincinnati Bengals,CIN ,DST,233.6
+235,Robbie Gould,SF ,K,238.4
+236,Philadelphia Eagles,PHI ,DST,241.2
+237,Sammy Watkins,GB ,WR,241.8
 238,Younghoe ,"Koo
                                             
                                             
-                                                ",ATL K,191,249,300,288,181
-239,"Damien Williams
-                                            
-                                            
-                                                ",ATL ,RB,280,174,183,192,-
-240,"Jason Sanders
-                                            
-                                            
-                                                ",MIA ,K,251,284,233,251,204
-241,"Davis Mills
-                                            
-                                            
-                                                ",HOU ,QB,241,200,275,254,254
-242,"Harrison Butker
-                                            
-                                            
-                                                ",,KC K,218,216,181,218,-
-243,"Carson Wentz
-                                            
-                                            
-                                                ",WAS ,QB,284,252,254,241,202
-244,"Greg Zuerlein
-                                            
-                                            
-                                                ",NYJ ,K,181,288,292,292,184
-245,"Braxton Berrios
-                                            
-                                            
-                                                ",NYJ ,WR,301,227,297,206,210
-246,"Terrace Marshall Jr.
-                                            
-                                            
-                                                ",CAR ,WR,173,268,293,262,247
-247,"Baker Mayfield
-                                            
-                                            
-                                                ",CAR ,QB,172,195,284,320,275
-248,"Carolina Panthers
-                                            
-                                            
-                                                ",CAR ,DST,266,223,278,248,234
-249,"Chris Evans
-                                            
-                                            
-                                                ",CIN ,RB,272,172,158,264,-
-250,"Cedrick Wilson Jr.
-                                            
-                                            
-                                                ",MIA ,WR,285,267,206,293,216
-251,"Dustin Hopkins
-                                            
-                                            
-                                                ",LAC ,K,288,247,228,253,253
-252,"Byron Pringle
-                                            
-                                            
-                                                ",CHI ,WR,242,286,265,290,188
-253,"Tennessee Titans
-                                            
-                                            
-                                                ",TEN ,DST,211,228,266,278,292
-254,"Eno Benjamin
-                                            
-                                            
-                                                ",ARI ,RB,161,197,237,289,-
-255,"Boston Scott
-                                            
-                                            
-                                                ",PHI ,RB,313,277,280,238,174
-256,"Chuba Hubbard
-                                            
-                                            
-                                                ",CAR ,RB,274,271,235,313,192
-257,"Sterling Shepard
-                                            
-                                            
-                                                ",NYG ,WR,262,245,269,286,229
-258,"Brandon McManus
-                                            
-                                            
-                                                ",DEN ,K,287,283,239,233,251
-259,"Nelson Agholor
-                                            
-                                            
-                                                ",NE ,WR,212,333,243,244,269
-260,"Trey McBride
-                                            
-                                            
-                                                ",ARI ,TE,246,270,267,258,260
-261,"Wil Lutz
-                                            
-                                            
-                                                ",NO ,K,233,231,281,276,287
-262,"Chris Boswell
-                                            
-                                            
-                                                ",PIT ,K,253,250,253,300,252
-263,"Jake Elliott
-                                            
-                                            
-                                                ",PHI ,K,249,251,252,281,276
-264,"Ameer Abdullah
-                                            
-                                            
-                                                ",LV ,RB,120,190,358,256,-
-265,"Zach Wilson
-                                            
-                                            
-                                                ",NYJ ,QB,275,326,241,202,283
-266,"Jonnu Smith
-                                            
-                                            
-                                                ",NE ,TE,236,253,291,282,267
-267,"Nick Folk
-                                            
-                                            
-                                                ",NE ,K,292,202,218,228,-
-268,"Giovani Bernard
-                                            
-                                            
-                                                ",TB ,RB,177,361,245,158,-
-269,"Arizona Cardinals
-                                            
-                                            
-                                                ",ARI ,DST,307,276,248,266,250
-270,"Odell Beckham Jr.
-                                            
-                                            
-                                                ",FA ,WR,265,260,306,297,222
-271,"Mason Crosby
-                                            
-                                            
-                                                ",GB ,K,281,295,287,252,239
-272,"Dontrell Hilliard
-                                            
-                                            
-                                                ",TEN ,RB,189,187,-,199,-
-273,"Daniel Bellinger
-                                            
-                                            
-                                                ",NYG ,TE,232,256,255,236,-
-274,"Randall Cobb
-                                            
-                                            
-                                                ",GB ,WR,290,238,244,216,-
-275,"Kyle Philips
-                                            
-                                            
-                                                ",TEN ,WR,240,241,247,265,-
-276,"Rex Burkhead
-                                            
-                                            
-                                                ",HOU ,RB,264,196,264,283,-
-277,"Jason Myers
-                                            
-                                            
-                                                ",SEA ,K,276,297,308,302,224
-278,"Mike Davis
-                                            
-                                            
-                                                ",BAL ,RB,336,225,-,198,256
-279,"Dan Arnold
-                                            
-                                            
-                                                ",JAC ,TE,255,294,273,356,236
-280,"Ty Montgomery
-                                            
-                                            
-                                                ",NE ,RB,116,-,256,257,-
-281,"Minnesota Vikings
-                                            
-                                            
-                                                ",MIN ,DST,279,298,250,303,296
-282,"Kyle Rudolph
-                                            
-                                            
-                                                ",TB ,TE,294,287,294,273,288
-283,"Bryan Edwards
-                                            
-                                            
-                                                ",ATL ,WR,286,311,290,285,265
-284,"Kenyan Drake
-                                            
-                                            
-                                                ",FA ,RB,331,322,274,361,158
-285,"Chicago Bears
-                                            
-                                            
-                                                ",CHI ,DST,344,275,318,279,230
-286,"Hassan Haskins
-                                            
-                                            
-                                                ",TEN ,RB,327,257,199,280,-
-287,"C.J. Uzomah
-                                            
-                                            
-                                                ",NYJ ,TE,305,290,325,291,246
-288,"Ronald Jones II
-                                            
-                                            
-                                                ",KC ,RB,353,243,289,-,183
-289,"Cameron Brate
-                                            
-                                            
-                                                ",TB ,TE,291,340,209,246,-
-290,"Graham Gano
-                                            
-                                            
-                                                ",NYG ,K,300,303,288,309,281
-291,"Zack Moss
-                                            
-                                            
-                                                ",BUF ,RB,372,310,328,245,245
-292,"Adam Trautman
-                                            
-                                            
-                                                ",NO ,TE,299,339,299,334,232
-293,"Nick Westbrook-Ikhine
-                                            
-                                            
-                                                ",TEN ,WR,247,229,242,-,-
-294,"Harrison Bryant
-                                            
-                                            
-                                                ",CLE ,TE,273,313,236,294,-
-295,"Washington Commanders
-                                            
-                                            
-                                                ",WAS ,DST,303,323,303,307,279
-296,"Greg Joseph
-                                            
-                                            
-                                                ",MIN ,K,309,226,302,287,-
-297,"Marquez Callaway
-                                            
-                                            
-                                                ",NO ,WR,269,289,298,270,-
-298,"Jaylen Warren
-                                            
-                                            
-                                                ",PIT ,RB,238,274,238,-,-
-299,"Marcus Mariota
-                                            
-                                            
-                                                ",ATL ,QB,320,272,362,284,304
-300,"Cairo Santos
-                                            
-                                            
-                                                ",CHI ,K,302,318,309,326,289
-301,"Josh Reynolds
-                                            
-                                            
-                                                ",DET ,WR,261,-,367,268,270
-302,"Devin Duvernay
-                                            
-                                            
-                                                ",BAL ,WR,-,263,262,263,-
-303,"Greg Dulcich
-                                            
-                                            
-                                                ",DEN ,TE,267,327,260,339,-
-304,"Darius Slayton
-                                            
-                                            
-                                                ",NYG ,WR,357,335,295,328,271
-305,"New York Giants
-                                            
-                                            
-                                                ",NYG ,DST,330,308,307,342,305
-306,"Tommy Tremble
-                                            
-                                            
-                                                ",CAR ,TE,352,265,282,305,-
-307,"New York Jets
-                                            
-                                            
-                                                ",NYJ ,DST,278,312,-,314,302
-308,"Seattle Seahawks
-                                            
-                                            
-                                                ",SEA ,DST,351,302,323,330,293
-309,"Pierre Strong Jr.
-                                            
-                                            
-                                                ",NE ,RB,322,304,352,-,235
-310,"Myles Gaskin
-                                            
-                                            
-                                                ",MIA ,RB,358,367,335,359,189
-311,"Ke'Shawn Vaughn
-                                            
-                                            
-                                                ",TB ,RB,256,324,322,316,-
-312,"Matt Breida
-                                            
-                                            
-                                                ",NYG ,RB,360,316,257,296,-
-313,"Danny Gray
-                                            
-                                            
-                                                ",SF ,WR,311,292,365,261,-
-314,"Jalen Reagor
-                                            
-                                            
-                                                ",PHI ,WR,328,-,345,298,263
-315,"Velus Jones Jr.
-                                            
-                                            
-                                                ",CHI ,WR,293,296,356,295,-
-316,"Calvin Austin III
-                                            
-                                            
-                                                ",PIT ,WR,270,305,286,380,-
+                                                ",ATL K,241.8
+239,Damien Williams,ATL ,RB,207.25
+240,Jason Sanders,MIA ,K,244.6
+241,Davis Mills,HOU ,QB,244.8
+242,Harrison Butker,,KC K,208.25
+243,Carson Wentz,WAS ,QB,246.6
+244,Greg Zuerlein,NYJ ,K,247.4
+245,Braxton Berrios,NYJ ,WR,248.2
+246,Terrace Marshall Jr.,CAR ,WR,248.6
+247,Baker Mayfield,CAR ,QB,249.2
+248,Carolina Panthers,CAR ,DST,249.8
+249,Chris Evans,CIN ,RB,216.5
+250,Cedrick Wilson Jr.,MIA ,WR,253.4
+251,Dustin Hopkins,LAC ,K,253.8
+252,Byron Pringle,CHI ,WR,254.2
+253,Tennessee Titans,TEN ,DST,255.0
+254,Eno Benjamin,ARI ,RB,221.0
+255,Boston Scott,PHI ,RB,256.4
+256,Chuba Hubbard,CAR ,RB,257.0
+257,Sterling Shepard,NYG ,WR,258.2
+258,Brandon McManus,DEN ,K,258.6
+259,Nelson Agholor,NE ,WR,260.2
+260,Trey McBride,ARI ,TE,260.2
+261,Wil Lutz,NO ,K,261.6
+262,Chris Boswell,PIT ,K,261.6
+263,Jake Elliott,PHI ,K,261.8
+264,Ameer Abdullah,LV ,RB,231.0
+265,Zach Wilson,NYJ ,QB,265.4
+266,Jonnu Smith,NE ,TE,265.8
+267,Nick Folk,NE ,K,235.0
+268,Giovani Bernard,TB ,RB,235.25
+269,Arizona Cardinals,ARI ,DST,269.4
+270,Odell Beckham Jr.,FA ,WR,270.0
+271,Mason Crosby,GB ,K,270.8
+272,Dontrell Hilliard,TEN ,RB,191.66666666666666
+273,Daniel Bellinger,NYG ,TE,244.75
+274,Randall Cobb,GB ,WR,247.0
+275,Kyle Philips,TEN ,WR,248.25
+276,Rex Burkhead,HOU ,RB,251.75
+277,Jason Myers,SEA ,K,281.4
+278,Mike Davis,BAL ,RB,253.75
+279,Dan Arnold,JAC ,TE,282.8
+280,Ty Montgomery,NE ,RB,209.66666666666666
+281,Minnesota Vikings,MIN ,DST,285.2
+282,Kyle Rudolph,TB ,TE,287.2
+283,Bryan Edwards,ATL ,WR,287.4
+284,Kenyan Drake,FA ,RB,289.2
+285,Chicago Bears,CHI ,DST,289.2
+286,Hassan Haskins,TEN ,RB,265.75
+287,C.J. Uzomah,NYJ ,TE,291.4
+288,Ronald Jones II,KC ,RB,267.0
+289,Cameron Brate,TB ,TE,271.5
+290,Graham Gano,NYG ,K,296.2
+291,Zack Moss,BUF ,RB,300.0
+292,Adam Trautman,NO ,TE,300.6
+293,Nick Westbrook-Ikhine,TEN ,WR,239.33333333333334
+294,Harrison Bryant,CLE ,TE,279.0
+295,Washington Commanders,WAS ,DST,303.0
+296,Greg Joseph,MIN ,K,281.0
+297,Marquez Callaway,NO ,WR,281.5
+298,Jaylen Warren,PIT ,RB,250.0
+299,Marcus Mariota,ATL ,QB,308.4
+300,Cairo Santos,CHI ,K,308.8
+301,Josh Reynolds,DET ,WR,291.5
+302,Devin Duvernay,BAL ,WR,262.6666666666667
+303,Greg Dulcich,DEN ,TE,298.25
+304,Darius Slayton,NYG ,WR,317.2
+305,New York Giants,NYG ,DST,318.4
+306,Tommy Tremble,CAR ,TE,301.0
+307,New York Jets,NYJ ,DST,301.5
+308,Seattle Seahawks,SEA ,DST,319.8
+309,Pierre Strong Jr.,NE ,RB,303.25
+310,Myles Gaskin,MIA ,RB,321.6
+311,Ke'Shawn Vaughn,TB ,RB,304.5
+312,Matt Breida,NYG ,RB,307.25
+313,Danny Gray,SF ,WR,307.25
+314,Jalen Reagor,PHI ,WR,308.5
+315,Velus Jones Jr.,CHI ,WR,310.0
+316,Calvin Austin III,PIT ,WR,310.25
 317,,"Ka'imi Fairbairn
                                             
                                             
-                                                ",HOU K,308,-,324,324,290
-318,"James Proche II
-                                            
-                                            
-                                                ",BAL ,WR,-,282,268,304,-
-319,"Detroit Lions
-                                            
-                                            
-                                                ",DET ,DST,318,-,314,318,299
-320,"Isaiah Likely
-                                            
-                                            
-                                                ",BAL ,TE,339,258,-,260,-
-321,"Trestan Ebner
-                                            
-                                            
-                                                ",CHI ,RB,217,-,259,384,-
-322,"Noah Brown
-                                            
-                                            
-                                                ",DAL ,WR,-,346,271,243,-
-323,"Quez Watkins
-                                            
-                                            
-                                                ",PHI ,WR,315,301,337,301,-
-324,"Phillip Lindsay
-                                            
-                                            
-                                                ",IND ,RB,-,-,296,321,257
-325,"John Bates
-                                            
-                                            
-                                                ",WAS ,TE,-,279,305,299,-
-326,"Kenny Pickett
-                                            
-                                            
-                                                ",PIT ,QB,337,351,320,363,298
-327,"Tyler Badie
-                                            
-                                            
-                                                ",BAL ,RB,310,320,326,327,-
-328,"Jacksonville Jaguars
-                                            
-                                            
-                                                ",JAC ,DST,314,317,329,323,-
-329,"Ty Johnson
-                                            
-                                            
-                                                ",NYJ ,RB,329,362,-,358,237
-330,"Jacoby Brissett
-                                            
-                                            
-                                                ",CLE ,QB,333,280,336,337,-
-331,"Tyquan Thornton
-                                            
-                                            
-                                                ",NE ,WR,263,291,-,347,-
-332,"Mitch Trubisky
-                                            
-                                            
-                                                ",PIT ,QB,363,330,353,333,308
-333,"Snoop Conner
-                                            
-                                            
-                                                ",JAC ,RB,277,-,316,310,-
-334,"Randy Bullock
-                                            
-                                            
-                                                ",TEN ,K,324,-,276,308,-
-335,"Anthony Firkser
-                                            
-                                            
-                                                ",ATL ,TE,362,355,355,367,255
-336,"O.J. Howard
-                                            
-                                            
-                                                ",BUF ,TE,341,358,384,341,273
-337,"Las Vegas Raiders
-                                            
-                                            
-                                                ",LV ,DST,323,-,341,344,297
-338,"Jauan Jennings
-                                            
-                                            
-                                                ",SF ,WR,306,-,304,306,-
-339,"Brett Maher
-                                            
-                                            
-                                                ",DAL ,K,-,278,-,249,-
-340,"Deonte Harty
-                                            
-                                            
-                                                ",NO ,WR,271,269,-,-,-
-341,"Juwan Johnson
-                                            
-                                            
-                                                ",NO ,TE,319,334,348,325,-
-342,"Khalil Shakir
-                                            
-                                            
-                                                ",BUF ,WR,-,299,263,374,-
-343,"Dyami Brown
-                                            
-                                            
-                                                ",WAS ,WR,346,359,346,-,285
-344,"Mack Hollins
-                                            
-                                            
-                                                ",LV ,WR,-,242,-,317,-
-345,"Jelani Woods
-                                            
-                                            
-                                                ",IND ,TE,349,-,340,267,-
-346,"Tutu Atwell
-                                            
-                                            
-                                                ",LAR ,WR,295,321,-,340,-
-347,"Justin Watson
-                                            
-                                            
-                                                ",KC ,WR,332,293,-,332,-
-348,"Donald Parham Jr.
-                                            
-                                            
-                                                ",LAC ,TE,325,319,319,-,-
-349,"Tre'Quan Smith
-                                            
-                                            
-                                                ",NO ,WR,298,353,317,-,-
-350,"Quintez Cephus
-                                            
-                                            
-                                                ",DET ,WR,343,-,-,346,284
-351,"Foster Moreau
-                                            
-                                            
-                                                ",LV ,TE,282,-,344,349,-
-352,"Josiah Deguara
-                                            
-                                            
-                                                ",GB ,TE,345,300,338,387,-
-353,"Desmond Ridder
-                                            
-                                            
-                                                ",ATL ,QB,373,363,332,383,312
-354,"Amari Rodgers
-                                            
-                                            
-                                                ",GB ,WR,-,281,390,315,-
-355,"Atlanta Falcons
-                                            
-                                            
-                                                ",ATL ,DST,342,-,343,-,306
-356,"Travis Homer
-                                            
-                                            
-                                                ",SEA ,RB,-,-,334,277,-
-357,"Houston Texans
-                                            
-                                            
-                                                ",HOU ,DST,-,-,350,351,307
-358,"Chase McLaughlin
-                                            
-                                            
-                                                ",FA ,K,326,-,-,-,295
-359,"Equanimeous St. Brown
-                                            
-                                            
-                                                ",CHI ,WR,338,-,368,311,-
-360,"Benny Snell Jr.
-                                            
-                                            
-                                                ",PIT ,RB,-,328,381,312,-
-361,"Jerome Ford
-                                            
-                                            
-                                                ",CLE ,RB,366,349,312,-,-
-362,"Kyren Williams
-                                            
-                                            
-                                                ",LAR ,RB,-,352,354,322,-
-363,"Jalen Guyton
-                                            
-                                            
-                                                ",LAC ,WR,-,-,270,368,-
-364,"Jimmy Garoppolo
-                                            
-                                            
-                                                ",SF ,QB,367,365,-,381,311
-365,"Pharaoh Brown
-                                            
-                                            
-                                                ",HOU ,TE,334,-,347,352,-
-366,"Durham Smythe
-                                            
-                                            
-                                                ",MIA ,TE,-,332,361,350,-
-367,"Keaontay Ingram
-                                            
-                                            
-                                                ",ARI ,RB,321,344,383,389,-
-368,"Larry Rountree III
-                                            
-                                            
-                                                ",LAC ,RB,355,-,359,331,-
-369,"Chris Conley
-                                            
-                                            
-                                                ",HOU ,WR,-,-,311,343,-
-370,"Geno Smith
-                                            
-                                            
-                                                ",SEA ,QB,354,343,392,354,-
-371,"Tyler Johnson
-                                            
-                                            
-                                                ",TB ,WR,317,-,342,-,-
-372,"Tylan Wallace
-                                            
-                                            
-                                                ",BAL ,WR,347,-,315,-,-
-373,"Kylen Granson
-                                            
-                                            
-                                                ",IND ,TE,356,336,386,370,-
-374,"Kalif Raymond
-                                            
-                                            
-                                                ",DET ,WR,-,-,-,271,-
-375,"Justin Jackson
-                                            
-                                            
-                                                ",DET ,RB,364,315,-,378,-
-376,"Salvon Ahmed
-                                            
-                                            
-                                                ",MIA ,RB,-,-,-,-,272
-377,"Laquon Treadwell
-                                            
-                                            
-                                                ",JAC ,WR,-,-,301,366,-
-378,"Drew Lock
-                                            
-                                            
-                                                ",SEA ,QB,369,-,382,393,309
-379,"Cade Otton
-                                            
-                                            
-                                                ",TB ,TE,348,341,-,377,-
-380,"Abram Smith
-                                            
-                                            
-                                                ",NO ,RB,368,306,-,-,-
-381,"Josh Lambo
-                                            
-                                            
-                                                ",FA ,K,-,-,-,-,286
-382,"Jashaun Corbin
-                                            
-                                            
-                                                ",NYG ,RB,289,-,-,-,-
-383,"Malik Willis
-                                            
-                                            
-                                                ",TEN ,QB,-,-,380,-,303
-384,"Darrynton Evans
-                                            
-                                            
-                                                ",CHI ,RB,312,-,388,376,-
-385,"Tristan Vizcaino
-                                            
-                                            
-                                                ",NE ,K,-,-,-,-,294
-386,"Rico Dowdle
-                                            
-                                            
-                                                ",DAL ,RB,296,-,-,-,-
-387,"Jake Ferguson
-                                            
-                                            
-                                                ",DAL ,TE,-,-,371,319,-
-388,"Kene Nwangwu
-                                            
-                                            
-                                                ",MIN ,RB,371,-,321,-,-
-389,"Kevin Harris
-                                            
-                                            
-                                                ",NE ,RB,-,329,363,-,-
-390,"Kylin Hill
-                                            
-                                            
-                                                ",GB ,RB,335,-,357,-,-
-391,"Quinn Nordin
-                                            
-                                            
-                                                ",FA ,K,-,-,-,-,300
-392,"Austin Seibert
-                                            
-                                            
-                                                ",DET ,K,-,-,-,-,301
-393,"James Washington
-                                            
-                                            
-                                                ",DAL ,WR,-,357,339,-,-
-394,"Zach Pascal
-                                            
-                                            
-                                                ",PHI ,WR,304,-,-,-,-
-395,"Ihmir Smith-Marsette
-                                            
-                                            
-                                                ",MIN ,WR,-,325,373,-,-
-396,"Anthony Schwartz
-                                            
-                                            
-                                                ",CLE ,WR,-,-,327,371,-
-397,"Jeremy Ruckert
-                                            
-                                            
-                                                ",NYJ ,TE,350,-,369,372,-
-398,"Julius Chestnut
-                                            
-                                            
-                                                ",TEN ,RB,-,348,-,353,-
-399,"Sam Darnold
-                                            
-                                            
-                                                ",CAR ,QB,-,-,-,-,310
-400,"Ty Chandler
-                                            
-                                            
-                                                ",MIN ,RB,-,-,313,-,-
-401,"Cole Beasley
-                                            
-                                            
-                                                ",FA ,WR,-,338,-,369,-
-402,"DeeJay Dallas
-                                            
-                                            
-                                                ",SEA ,RB,-,-,387,329,-
-403,"Craig Reynolds
-                                            
-                                            
-                                                ",DET ,RB,365,-,360,388,-
-404,"Tony Jones Jr.
-                                            
-                                            
-                                                ",NO ,RB,-,-,330,-,-
-405,"Olamide Zaccheaus
-                                            
-                                            
-                                                ",ATL ,WR,-,-,331,-,-
-406,"Samori Toure
-                                            
-                                            
-                                                ",GB ,WR,-,331,-,-,-
-407,"Mike Boone
-                                            
-                                            
-                                                ",DEN ,RB,-,-,-,335,-
-408,"Jeremy McNichols
-                                            
-                                            
-                                                ",PIT ,RB,-,-,-,336,-
-409,"Antonio Brown
-                                            
-                                            
-                                                ",FA ,WR,-,337,-,-,-
-410,"Ben Skowronek
-                                            
-                                            
-                                                ",LAR ,WR,-,-,-,338,-
-411,"N'Keal Harry
-                                            
-                                            
-                                                ",CHI ,WR,340,-,-,-,-
-412,"Carlos Hyde
-                                            
-                                            
-                                                ",FA ,RB,-,342,-,-,-
-413,"Derrick Gore
-                                            
-                                            
-                                                ",KC ,RB,361,-,375,-,-
-414,"Taysom Hill
-                                            
-                                            
-                                                ",NO ,TE,-,-,-,345,-
-415,"Jordan Akins
-                                            
-                                            
-                                                ",NYG ,TE,-,345,-,-,-
-416,"Kennedy Brooks
-                                            
-                                            
-                                                ",PHI ,RB,-,347,-,-,-
-417,"Will Dissly
-                                            
-                                            
-                                                ",SEA ,TE,-,-,-,348,-
-418,"Geoff Swaim
-                                            
-                                            
-                                                ",,TEN TE,-,-,349,-,-
-419,"D'Vonte Price
-                                            
-                                            
-                                                ",IND ,RB,-,350,-,-,-
-420,"Ian Thomas
-                                            
-                                            
-                                                ",CAR ,TE,-,-,351,-,-
-421,"Emmanuel Sanders
-                                            
-                                            
-                                                ",FA ,WR,-,354,-,-,-
-422,"Anthony McFarland Jr.
-                                            
-                                            
-                                                ",PIT ,RB,-,-,-,355,-
-423,"Seth Williams
-                                            
-                                            
-                                                ",DEN ,WR,-,356,-,-,-
-424,"Trent Sherfield
-                                            
-                                            
-                                                ",MIA ,WR,-,-,-,357,-
-425,"Jordan Mason
-                                            
-                                            
-                                                ",SF ,RB,359,-,-,-,-
-426,"Jared Cook
-                                            
-                                            
-                                                ",FA ,TE,-,360,-,-,-
-427,"Justice Hill
-                                            
-                                            
-                                                ",BAL ,RB,-,-,-,360,-
-428,"Colby Parkinson
-                                            
-                                            
-                                                ",SEA ,TE,-,-,-,362,-
-429,"Jamal Agnew
-                                            
-                                            
-                                                ",JAC ,WR,-,-,391,365,-
-430,"Brandon Bolden
-                                            
-                                            
-                                                ",LV ,RB,-,-,-,364,-
-431,"Wayne Gallman Jr.
-                                            
-                                            
-                                                ",FA ,RB,-,364,-,-,-
-432,"Keelan Cole Sr.
-                                            
-                                            
-                                                ",LV ,WR,-,-,364,-,-
-433,"Tyler Davis
-                                            
-                                            
-                                                ",GB ,TE,-,-,366,-,-
-434,"Zonovan Knight
-                                            
-                                            
-                                                ",NYJ ,RB,-,366,-,-,-
-435,"David Johnson
-                                            
-                                            
-                                                ",FA ,RB,-,368,-,-,-
-436,"Charlie Kolar
-                                            
-                                            
-                                                ",BAL ,TE,-,369,-,-,-
-437,"Teddy Bridgewater
-                                            
-                                            
-                                                ",MIA ,QB,-,370,-,-,-
-438,"Phillip Dorsett II
-                                            
-                                            
-                                                ",HOU ,WR,-,-,370,-,-
-439,"Jaret Patterson
-                                            
-                                            
-                                                ",WAS ,RB,370,-,-,-,-
-440,"Denzel Mims
-                                            
-                                            
-                                                ",NYJ ,WR,-,-,372,-,-
-441,"KhaDarel Hodge
-                                            
-                                            
-                                                ",ATL ,WR,-,-,-,373,-
-442,"Ashton Dulin
-                                            
-                                            
-                                                ",IND ,WR,-,-,374,-,-
-443,"Dezmon Patmon
-                                            
-                                            
-                                                ",IND ,WR,-,-,-,375,-
-444,"Ryan Griffin
-                                            
-                                            
-                                                ",CHI ,TE,-,-,376,-,-
-445,"Tevin Coleman
-                                            
-                                            
-                                                ",NYJ ,RB,-,-,377,-,-
-446,"Dee Eskridge
-                                            
-                                            
-                                                ",SEA ,WR,-,-,378,-,-
-447,"Preston Williams
-                                            
-                                            
-                                                ",MIA ,WR,-,-,379,-,-
-448,"Kendall Hinton
-                                            
-                                            
-                                                ",DEN ,WR,-,-,-,379,-
-449,"Duke Johnson Jr.
-                                            
-                                            
-                                                ",BUF ,RB,-,-,-,382,-
-450,"Rashard Higgins
-                                            
-                                            
-                                                ",CAR ,WR,-,-,385,-,-
-451,"Nick Vannett
-                                            
-                                            
-                                                ",NO ,TE,-,-,-,385,-
-452,"Chester Rogers
-                                            
-                                            
-                                                ",HOU ,WR,-,-,-,386,-
-453,"Noah Gray
-                                            
-                                            
-                                                ",KC ,TE,-,-,389,-,-
-454,"Chigoziem Okonkwo
-                                            
-                                            
-                                                ",,TEN TE,-,-,-,390,-
-455,"DeAndre Carter
-                                            
-                                            
-                                                ",LAC ,WR,-,-,-,391,-
-456,"Montrell Washington
-                                            
-                                            
-                                                ",DEN ,WR,-,-,-,392,-
+                                                ",HOU K,311.5
+318,James Proche II,BAL ,WR,284.6666666666667
+319,Detroit Lions,DET ,DST,312.25
+320,Isaiah Likely,BAL ,TE,285.6666666666667
+321,Trestan Ebner,CHI ,RB,286.6666666666667
+322,Noah Brown,DAL ,WR,286.6666666666667
+323,Quez Watkins,PHI ,WR,313.5
+324,Phillip Lindsay,IND ,RB,291.3333333333333
+325,John Bates,WAS ,TE,294.3333333333333
+326,Kenny Pickett,PIT ,QB,333.8
+327,Tyler Badie,BAL ,RB,320.75
+328,Jacksonville Jaguars,JAC ,DST,320.75
+329,Ty Johnson,NYJ ,RB,321.5
+330,Jacoby Brissett,CLE ,QB,321.5
+331,Tyquan Thornton,NE ,WR,300.3333333333333
+332,Mitch Trubisky,PIT ,QB,337.4
+333,Snoop Conner,JAC ,RB,301.0
+334,Randy Bullock,TEN ,K,302.6666666666667
+335,Anthony Firkser,ATL ,TE,338.8
+336,O.J. Howard,BUF ,TE,339.4
+337,Las Vegas Raiders,LV ,DST,326.25
+338,Jauan Jennings,SF ,WR,305.3333333333333
+339,Brett Maher,DAL ,K,263.5
+340,Deonte Harty,NO ,WR,270.0
+341,Juwan Johnson,NO ,TE,331.5
+342,Khalil Shakir,BUF ,WR,312.0
+343,Dyami Brown,WAS ,WR,334.0
+344,Mack Hollins,LV ,WR,279.5
+345,Jelani Woods,IND ,TE,318.6666666666667
+346,Tutu Atwell,LAR ,WR,318.6666666666667
+347,Justin Watson,KC ,WR,319.0
+348,Donald Parham Jr.,LAC ,TE,321.0
+349,Tre'Quan Smith,NO ,WR,322.6666666666667
+350,Quintez Cephus,DET ,WR,324.3333333333333
+351,Foster Moreau,LV ,TE,325.0
+352,Josiah Deguara,GB ,TE,342.5
+353,Desmond Ridder,ATL ,QB,352.6
+354,Amari Rodgers,GB ,WR,328.6666666666667
+355,Atlanta Falcons,ATL ,DST,330.3333333333333
+356,Travis Homer,SEA ,RB,305.5
+357,Houston Texans,HOU ,DST,336.0
+358,Chase McLaughlin,FA ,K,310.5
+359,Equanimeous St. Brown,CHI ,WR,339.0
+360,Benny Snell Jr.,PIT ,RB,340.3333333333333
+361,Jerome Ford,CLE ,RB,342.3333333333333
+362,Kyren Williams,LAR ,RB,342.6666666666667
+363,Jalen Guyton,LAC ,WR,319.0
+364,Jimmy Garoppolo,SF ,QB,356.0
+365,Pharaoh Brown,HOU ,TE,344.3333333333333
+366,Durham Smythe,MIA ,TE,347.6666666666667
+367,Keaontay Ingram,ARI ,RB,359.25
+368,Larry Rountree III,LAC ,RB,348.3333333333333
+369,Chris Conley,HOU ,WR,327.0
+370,Geno Smith,SEA ,QB,360.75
+371,Tyler Johnson,TB ,WR,329.5
+372,Tylan Wallace,BAL ,WR,331.0
+373,Kylen Granson,IND ,TE,362.0
+374,Kalif Raymond,DET ,WR,271.0
+375,Justin Jackson,DET ,RB,352.3333333333333
+376,Salvon Ahmed,MIA ,RB,272.0
+377,Laquon Treadwell,JAC ,WR,333.5
+378,Drew Lock,SEA ,QB,363.25
+379,Cade Otton,TB ,TE,355.3333333333333
+380,Abram Smith,NO ,RB,337.0
+381,Josh Lambo,FA ,K,286.0
+382,Jashaun Corbin,NYG ,RB,289.0
+383,Malik Willis,TEN ,QB,341.5
+384,Darrynton Evans,CHI ,RB,358.6666666666667
+385,Tristan Vizcaino,NE ,K,294.0
+386,Rico Dowdle,DAL ,RB,296.0
+387,Jake Ferguson,DAL ,TE,345.0
+388,Kene Nwangwu,MIN ,RB,346.0
+389,Kevin Harris,NE ,RB,346.0
+390,Kylin Hill,GB ,RB,346.0
+391,Quinn Nordin,FA ,K,300.0
+392,Austin Seibert,DET ,K,301.0
+393,James Washington,DAL ,WR,348.0
+394,Zach Pascal,PHI ,WR,304.0
+395,Ihmir Smith-Marsette,MIN ,WR,349.0
+396,Anthony Schwartz,CLE ,WR,349.0
+397,Jeremy Ruckert,NYJ ,TE,363.6666666666667
+398,Julius Chestnut,TEN ,RB,350.5
+399,Sam Darnold,CAR ,QB,310.0
+400,Ty Chandler,MIN ,RB,313.0
+401,Cole Beasley,FA ,WR,353.5
+402,DeeJay Dallas,SEA ,RB,358.0
+403,Craig Reynolds,DET ,RB,371.0
+404,Tony Jones Jr.,NO ,RB,330.0
+405,Olamide Zaccheaus,ATL ,WR,331.0
+406,Samori Toure,GB ,WR,331.0
+407,Mike Boone,DEN ,RB,335.0
+408,Jeremy McNichols,PIT ,RB,336.0
+409,Antonio Brown,FA ,WR,337.0
+410,Ben Skowronek,LAR ,WR,338.0
+411,N'Keal Harry,CHI ,WR,340.0
+412,Carlos Hyde,FA ,RB,342.0
+413,Derrick Gore,KC ,RB,368.0
+414,Taysom Hill,NO ,TE,345.0
+415,Jordan Akins,NYG ,TE,345.0
+416,Kennedy Brooks,PHI ,RB,347.0
+417,Will Dissly,SEA ,TE,348.0
+418,Geoff Swaim,,TEN TE,349.0
+419,D'Vonte Price,IND ,RB,350.0
+420,Ian Thomas,CAR ,TE,351.0
+421,Emmanuel Sanders,FA ,WR,354.0
+422,Anthony McFarland Jr.,PIT ,RB,355.0
+423,Seth Williams,DEN ,WR,356.0
+424,Trent Sherfield,MIA ,WR,357.0
+425,Jordan Mason,SF ,RB,359.0
+426,Jared Cook,FA ,TE,360.0
+427,Justice Hill,BAL ,RB,360.0
+428,Colby Parkinson,SEA ,TE,362.0
+429,Jamal Agnew,JAC ,WR,378.0
+430,Brandon Bolden,LV ,RB,364.0
+431,Wayne Gallman Jr.,FA ,RB,364.0
+432,Keelan Cole Sr.,LV ,WR,364.0
+433,Tyler Davis,GB ,TE,366.0
+434,Zonovan Knight,NYJ ,RB,366.0
+435,David Johnson,FA ,RB,368.0
+436,Charlie Kolar,BAL ,TE,369.0
+437,Teddy Bridgewater,MIA ,QB,370.0
+438,Phillip Dorsett II,HOU ,WR,370.0
+439,Jaret Patterson,WAS ,RB,370.0
+440,Denzel Mims,NYJ ,WR,372.0
+441,KhaDarel Hodge,ATL ,WR,373.0
+442,Ashton Dulin,IND ,WR,374.0
+443,Dezmon Patmon,IND ,WR,375.0
+444,Ryan Griffin,CHI ,TE,376.0
+445,Tevin Coleman,NYJ ,RB,377.0
+446,Dee Eskridge,SEA ,WR,378.0
+447,Preston Williams,MIA ,WR,379.0
+448,Kendall Hinton,DEN ,WR,379.0
+449,Duke Johnson Jr.,BUF ,RB,382.0
+450,Rashard Higgins,CAR ,WR,385.0
+451,Nick Vannett,NO ,TE,385.0
+452,Chester Rogers,HOU ,WR,386.0
+453,Noah Gray,KC ,TE,389.0
+454,Chigoziem Okonkwo,,TEN TE,390.0
+455,DeAndre Carter,LAC ,WR,391.0
+456,Montrell Washington,DEN ,WR,392.0
