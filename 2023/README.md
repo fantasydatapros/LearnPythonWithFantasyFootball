@@ -9,7 +9,7 @@
 * Weekly fantasy data from PFR for 2022.
 * Combine data from 2000 - 2020.
 
-## 08-Finding TD Regression Candidates (DONE)
+## 08-Finding TD Regression Candidates
 * 2022 Play by Play data from nflfastR.
 
 Changed from 2022:
