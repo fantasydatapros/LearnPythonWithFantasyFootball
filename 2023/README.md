@@ -4,12 +4,12 @@
 * Projection data from fantasydatapros.com (all positions)
 * ADP data from Underdog Fantasy best ball drafts (standard, ppr, half-ppr)
 
-## 07-Data Visualizations (PARTIALLY DONE; NEED TO REFORMAT COMBINE DATA)
+## 07-Data Visualizations (DONE)
 * Yearly fantasy data from nfl_data_py for 2022.
 * Weekly fantasy data from nfl_data_py for 2022.
-* Combine data from 2000 - 2020.
+* Combine data from 2000 - 2023 (nfl_data_py).
 
-Changed from 2022:
+#### Changed from 2022:
 
 * New columns in Fantasy Data: Passing Cmp, 2-Point Conversions
 * Data source has been changed to nflfastR / nfl_data_py for weekly stats and also combine data; new columns for each data set.
@@ -39,10 +39,20 @@ Changed from 2022:
 
 * Combine data now includes the most recent combine results
 
+New columns in combine data:
+
+1. DraftTeam
+2. DraftRound
+3. PFRPlayerID: Player ID on profootballreference.com
+4. CFBPlayerID: Player ID for CFB
+5. Vertical: Vertical jump results
+
+Unfortunately, no Age column in this new data source.
+
 ## 08-Finding TD Regression Candidates (DONE)
 * 2022 Play by Play data from nflfastR.
 
-Changed from 2022:
+#### Changed from 2022:
 * Compressed as GZIP since file size for 2022 >100MB
 
 To load in Google Colab, users will have to use the following URL:
@@ -60,7 +70,7 @@ df = pd.read_csv(url, compression='gzip', low_memory=False)
 ## 09-Correlation Matrices (DONE)
 * Weekly fantasy data from nfl_data_py for 2022.
 
-Changes from 2022:
+#### Changed from 2022:
 * Same changes described above as a result of changing the data source
 * Changed file name for format on Yearly data to 02-Yearly Fantasy Stats - {year}.csv.
 
@@ -70,7 +80,7 @@ Changes from 2022:
 ## 11-Machine Learning - Clustering (DONE)
 * Expert Concensus Rankings from Fantasy Pros.
 
-Changed from 2022:
+#### Changed from 2022:
 * Min, Max columns renamed to MIN, MAX
 * Added column for standard deviation called STD DEV
 * Added a script to remove numerics from Fantasy Pros positions (eg. take QB12 -> QB)
