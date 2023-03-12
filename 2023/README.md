@@ -15,6 +15,17 @@
 Changed from 2022:
 * Compressed as GZIP since file size for 2022 >100MB
 
+To load in Google Colab, users will have to use the following URL:
+
+"https://github.com/fantasydatapros/LearnPythonWithFantasyFootball/blob/master/2023/08-Finding%20TD%20Regression%20Candidates/1-Play%20by%20Play%20Data%20-%202022.csv.gz?raw=True"
+
+```python
+import pandas as pd
+url = "https://github.com/fantasydatapros/LearnPythonWithFantasyFootball/blob/master/2023/08-Finding%20TD%20Regression%20Candidates/1-Play%20by%20Play%20Data%20-%202022.csv.gz?raw=True"
+
+df = pd.read_csv(url, compression='gzip', low_memory=False)
+```
+
 ## 09-Correlation Matrices
 * Weekly fantasy data from PFR for 2022.
 
