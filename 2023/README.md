@@ -14,6 +14,7 @@
 * New columns in Fantasy Data: Passing Cmp, 2-Point Conversions
 * Data source has been changed to nflfastR / nfl_data_py for weekly stats and also combine data; new columns for each data set.
 * New columns for weekly data:
+
 1. PlayerID: nflfastR gsis_id
 2. PassingAirYards
 3. PassingYAC
