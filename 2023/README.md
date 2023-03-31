@@ -2,7 +2,7 @@
 
 ## 06-Data Munging
 * Projection data from fantasydatapros.com (all positions)
-* ADP data from Underdog Fantasy best ball drafts (standard, ppr, half-ppr)
+* ADP data from Underdog Fantasy best ball drafts (half-ppr)
 
 ## 07-Data Visualizations (DONE)
 * Yearly fantasy data from nfl_data_py for 2022.
@@ -50,7 +50,7 @@ New columns in combine data:
 
 Unfortunately, no Age column in this new data source.
 
-## 08-Finding TD Regression Candidates (DONE)
+## 08-Finding TD Regression Candidates
 * 2022 Play by Play data from nflfastR.
 
 #### Changed from 2022:
@@ -68,7 +68,7 @@ url = "https://github.com/fantasydatapros/LearnPythonWithFantasyFootball/blob/ma
 df = pd.read_csv(url, compression='gzip', low_memory=False)
 ```
 
-## 09-Correlation Matrices (DONE)
+## 09-Correlation Matrices
 * Weekly fantasy data from nfl_data_py for 2022.
 
 #### Changed from 2022:
@@ -78,7 +78,7 @@ df = pd.read_csv(url, compression='gzip', low_memory=False)
 ## 10-Machine Learning - Regression
 * Curated dataset from GridironAI.
 
-## 11-Machine Learning - Clustering (DONE)
+## 11-Machine Learning - Clustering
 * Expert Concensus Rankings from Fantasy Pros.
 
 #### Changed from 2022:
