@@ -51,24 +51,12 @@ New columns in combine data:
 Unfortunately, no Age column in this new data source.
 
 ## 08-Finding TD Regression Candidates
-* 2022 Play by Play data from nflfastR.
-
-#### Changed from 2022:
-* Compressed as GZIP since file size for 2022 >100MB
-
-To load in Google Colab, users will have to use the following URL:
-
-https://github.com/fantasydatapros/LearnPythonWithFantasyFootball/blob/master/2023/08-Finding%20TD%20Regression%20Candidates/1-Play%20by%20Play%20Data%20-%202022.csv.gz?raw=True
-
-```python
-import pandas as pd
-
-url = "https://github.com/fantasydatapros/LearnPythonWithFantasyFootball/blob/master/2023/08-Finding%20TD%20Regression%20Candidates/1-Play%20by%20Play%20Data%20-%202022.csv.gz?raw=True"
-
-df = pd.read_csv(url, compression='gzip', low_memory=False)
-```
+Removed - now loading data exclusively from `nfl_data_py`. Moved this section to #9.
 
 ## 09-Correlation Matrices
+
+Moved section to #8.
+
 * Weekly fantasy data from nfl_data_py for 2022.
 
 #### Changed from 2022:
@@ -76,12 +64,7 @@ df = pd.read_csv(url, compression='gzip', low_memory=False)
 * Changed file name for format on Yearly data to 02-Yearly Fantasy Stats - {year}.csv.
 
 ## 10-Machine Learning - Regression
-* Curated dataset from GridironAI.
+Removed
 
 ## 11-Machine Learning - Clustering
-* Expert Concensus Rankings from Fantasy Pros.
-
-#### Changed from 2022:
-* Min, Max columns renamed to MIN, MAX
-* Added column for standard deviation called STD DEV
-* Added a script to remove numerics from Fantasy Pros positions (eg. take QB12 -> QB)
+Removed
