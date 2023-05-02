@@ -4,7 +4,7 @@
 * Projection data from fantasydatapros.com (all positions)
 * ADP data from Underdog Fantasy best ball drafts (half-ppr)
 
-## 07-Data Visualizations (DONE)
+## 07-Data Visualizations
 * Yearly fantasy data from nfl_data_py for 2022.
 * Weekly fantasy data from nfl_data_py for 2022.
 * Combine data from 2000 - 2023 (nfl_data_py).
@@ -68,5 +68,3 @@ Removed
 
 ## 11-Machine Learning - Clustering
 Removed
-
-Test webhook.
